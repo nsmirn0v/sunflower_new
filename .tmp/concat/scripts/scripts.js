@@ -315,7 +315,7 @@ app.controller('NavCtrl', [
         }
       });
       $scope.show = !/gallery\/.+/.test($location.path());
-      console.debug('show: ', $scope.show);
+      $scope.scalable = $scope.show;
     });
   }
 ]);

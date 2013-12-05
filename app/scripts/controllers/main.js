@@ -256,7 +256,7 @@ app.controller('NavCtrl', ['$scope', '$location',
 				}
 			});
 
-			$scope.show = !(/gallery\/.+/.test($location.path()))
-			console.debug("show: ", $scope.show);
+			$scope.show = !(/gallery\/.+/.test($location.path()));
+			$scope.scalable = $scope.show;
 		});
 	}]);
