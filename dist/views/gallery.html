@@ -1,0 +1,11 @@
+<div class="container gallery">
+	<span class="img-thumbnail col-xs-4 col-sm-3" ng-repeat="picture in pictures">
+		<a class="" href="#/gallery/{{ picture.name }}">
+			<img class="img-responsive" ng-src="{{ picture.thumb }}">
+		</a>
+	</span>
+</div>
+
+<script type="text/javascript">
+	document.body.scrollTop = document.documentElement.scrollTop = 0;
+</script>

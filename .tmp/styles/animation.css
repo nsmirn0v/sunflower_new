@@ -1,28 +1,12 @@
 /* cross fading between routes with ngView */
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/animation\.scss;
-  }
-
-  line {
-    font-family: \000033;
-  }
-}
+/* line 3, ../../app/styles/animation.scss */
 
 .view-container {
   position: relative;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/animation\.scss;
-  }
-
-  line {
-    font-family: \0000316;
-  }
-}
+/* line 16, ../../app/styles/animation.scss */
 
 .view-frame.ng-enter {
   opacity: 0;

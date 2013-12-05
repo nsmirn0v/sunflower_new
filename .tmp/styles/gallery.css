@@ -1,14 +1,6 @@
 /* Styles for gallery */
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/gallery\.scss;
-  }
-
-  line {
-    font-family: \000032;
-  }
-}
+/* line 2, ../../app/styles/gallery.scss */
 
 .gallery {
   margin-top: 75px;
@@ -16,30 +8,14 @@
   padding: 0;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/gallery\.scss;
-  }
-
-  line {
-    font-family: \000037;
-  }
-}
+/* line 7, ../../app/styles/gallery.scss */
 
 .gallery .img-thumbnail {
   border: 0;
   padding: 1px;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/gallery\.scss;
-  }
-
-  line {
-    font-family: \0000311;
-  }
-}
+/* line 11, ../../app/styles/gallery.scss */
 
 .gallery .img-thumbnail img {
   -webkit-transition: border-color .2s;
@@ -51,29 +27,13 @@
   border: 1px solid #eeeeee;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/gallery\.scss;
-  }
-
-  line {
-    font-family: \0000324;
-  }
-}
+/* line 24, ../../app/styles/gallery.scss */
 
 .gallery .img-thumbnail img:hover {
   border-color: yellowgreen;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/gallery\.scss;
-  }
-
-  line {
-    font-family: \0000331;
-  }
-}
+/* line 31, ../../app/styles/gallery.scss */
 
 .fullsize {
   z-index: 1000;
@@ -86,15 +46,7 @@
   height: 100%;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/gallery\.scss;
-  }
-
-  line {
-    font-family: \0000341;
-  }
-}
+/* line 41, ../../app/styles/gallery.scss */
 
 .fullsize .img-responsive {
   -o-border-radius: 2px;
@@ -106,15 +58,7 @@
   border: 1px solid #eeeeee;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/gallery\.scss;
-  }
-
-  line {
-    font-family: \0000351;
-  }
-}
+/* line 51, ../../app/styles/gallery.scss */
 
 .fullsize .wrapper {
   height: 100%;
@@ -124,30 +68,14 @@
   border: 0;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/gallery\.scss;
-  }
-
-  line {
-    font-family: \0000358;
-  }
-}
+/* line 58, ../../app/styles/gallery.scss */
 
 .fullsize .wrapper td {
   vertical-align: middle;
   text-align: center;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/gallery\.scss;
-  }
-
-  line {
-    font-family: \0000362;
-  }
-}
+/* line 62, ../../app/styles/gallery.scss */
 
 .fullsize .wrapper td .loading {
   position: fixed;
@@ -157,15 +85,7 @@
   z-index: -1;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/gallery\.scss;
-  }
-
-  line {
-    font-family: \0000372;
-  }
-}
+/* line 72, ../../app/styles/gallery.scss */
 
 .fullsize .left,
 .fullsize .right {
@@ -175,58 +95,26 @@
   color: #555;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/gallery\.scss;
-  }
-
-  line {
-    font-family: \0000378;
-  }
-}
+/* line 78, ../../app/styles/gallery.scss */
 
 .fullsize .left:hover,
 .fullsize .right:hover {
   color: lightcoral;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/gallery\.scss;
-  }
-
-  line {
-    font-family: \0000383;
-  }
-}
+/* line 83, ../../app/styles/gallery.scss */
 
 .fullsize .left {
   left: 15px;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/gallery\.scss;
-  }
-
-  line {
-    font-family: \0000387;
-  }
-}
+/* line 87, ../../app/styles/gallery.scss */
 
 .fullsize .right {
   right: 15px;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/gallery\.scss;
-  }
-
-  line {
-    font-family: \0000391;
-  }
-}
+/* line 91, ../../app/styles/gallery.scss */
 
 .fullsize .back {
   position: fixed;
@@ -235,44 +123,20 @@
   color: #555;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/gallery\.scss;
-  }
-
-  line {
-    font-family: \0000397;
-  }
-}
+/* line 97, ../../app/styles/gallery.scss */
 
 .fullsize .back:hover {
   color: lightcoral;
 }
 
 @media (max-width: 768px) {
-@media -sass-debug-info {
-    filename {
-      font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/gallery\.scss;
-    }
-
-    line {
-      font-family: \00003104;
-    }
-}
+  /* line 104, ../../app/styles/gallery.scss */
 
   .gallery {
     margin-top: 20px;
   }
 
-@media -sass-debug-info {
-    filename {
-      font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/gallery\.scss;
-    }
-
-    line {
-      font-family: \00003107;
-    }
-}
+  /* line 107, ../../app/styles/gallery.scss */
 
   .gallery .img-thumbnail {
     padding: 0;

@@ -1,0 +1,54 @@
+<div class="fullsize">
+	<table class="wrapper">
+		<tr>
+			<td>
+				<span class="loading">
+					<i class="fa fa-spinner fa-spin fa-3x"></i>
+				</span>
+
+				<a href="#/gallery/{{ next.name }}">
+					<img class="img-responsive" ng-src="{{ curr.fullsize }}">
+				</a>
+			</td><td>
+		</td></tr>
+	</table>
+
+	<a class="hidden-xs hidden-sm" id="left-button" href="#/gallery/{{ prev.name }}">
+		<i class="fa fa-angle-left fa-3x left"></i>
+	</a>
+
+	<a class="hidden-xs hidden-sm" id="right-button" href="#/gallery/{{ next.name }}">
+		<i class="fa fa-angle-right fa-3x right"></i>
+	</a>
+
+	<a href="#/gallery" id="close-button" class="visible-xs visible-sm">
+		<i class="fa fa-times fa-2x back"></i>
+	</a>
+
+	<script type="text/javascript">
+		var ESC = 27,
+			LEFT = 37,
+			RIGHT = 39,
+			TOP = 38,
+			BOTTOM = 40;
+
+		$(document).keydown(function(e){
+			if (e.keyCode == ESC) {
+				$(document).off("keydown");
+				return $("#close-button").click();
+			}
+
+			if (e.keyCode == LEFT) {
+				$(document).off("keydown");
+				return $("#left-button").click();
+			}
+
+			if (e.keyCode == RIGHT) {
+				$(document).off("keydown");
+				return $("#right-button").click();
+			}
+		});
+
+
+	</script>
+</div>

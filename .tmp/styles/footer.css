@@ -1,12 +1,4 @@
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/footer\.scss;
-  }
-
-  line {
-    font-family: \000031;
-  }
-}
+/* line 1, ../../app/styles/footer.scss */
 
 .default.footer {
   padding-bottom: 25px;
@@ -14,15 +6,7 @@
 }
 
 @media (max-width: 768px) {
-@media -sass-debug-info {
-    filename {
-      font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/footer\.scss;
-    }
-
-    line {
-      font-family: \000037;
-    }
-}
+  /* line 7, ../../app/styles/footer.scss */
 
   .default.footer {
     margin-bottom: 50px;

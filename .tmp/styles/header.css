@@ -1,12 +1,4 @@
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/header\.scss;
-  }
-
-  line {
-    font-family: \000031;
-  }
-}
+/* line 1, ../../app/styles/header.scss */
 
 .navbar.navbar-fixed-top {
   background: rgba(255, 255, 255, 0.95);
@@ -16,15 +8,7 @@
   margin-bottom: 0;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/header\.scss;
-  }
-
-  line {
-    font-family: \000038;
-  }
-}
+/* line 8, ../../app/styles/header.scss */
 
 .navbar.navbar-fixed-top .nav-link {
   text-align: center;
@@ -36,15 +20,7 @@
   transition: all .2s ease-in-out;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/header\.scss;
-  }
-
-  line {
-    font-family: \0000319;
-  }
-}
+/* line 19, ../../app/styles/header.scss */
 
 .navbar.navbar-fixed-top .nav-link .sub-link {
   -webkit-transition: top .2s ease-in-out;
@@ -58,102 +34,46 @@
   border-bottom: 3px solid lightcoral;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/header\.scss;
-  }
-
-  line {
-    font-family: \0000333;
-  }
-}
+/* line 33, ../../app/styles/header.scss */
 
 .navbar.navbar-fixed-top .nav-link .sub-link span {
   display: block;
   padding-top: 20px;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/header\.scss;
-  }
-
-  line {
-    font-family: \0000341;
-  }
-}
+/* line 41, ../../app/styles/header.scss */
 
 .navbar.navbar-fixed-top .nav-link .sub-link {
   color: #555;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/header\.scss;
-  }
-
-  line {
-    font-family: \0000346;
-  }
-}
+/* line 46, ../../app/styles/header.scss */
 
 .navbar.navbar-fixed-top .nav-link:hover .sub-link {
   color: lightcoral;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/header\.scss;
-  }
-
-  line {
-    font-family: \0000353;
-  }
-}
+/* line 53, ../../app/styles/header.scss */
 
 .navbar.navbar-fixed-top .active .nav-link {
   background: whitesmoke;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/header\.scss;
-  }
-
-  line {
-    font-family: \0000356;
-  }
-}
+/* line 56, ../../app/styles/header.scss */
 
 .navbar.navbar-fixed-top .active .nav-link .sub-link {
   top: -30px;
   color: lightcoral;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/header\.scss;
-  }
-
-  line {
-    font-family: \0000368;
-  }
-}
+/* line 68, ../../app/styles/header.scss */
 
 .navbar.navbar-fixed-bottom .nav-justified li {
   display: table-cell;
   width: 1%;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/header\.scss;
-  }
-
-  line {
-    font-family: \0000373;
-  }
-}
+/* line 73, ../../app/styles/header.scss */
 
 .navbar.navbar-fixed-bottom .nav-justified li a {
   -webkit-transition: all .2s ease-in-out;
@@ -162,15 +82,7 @@
   margin-bottom: 0;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/header\.scss;
-  }
-
-  line {
-    font-family: \0000382;
-  }
-}
+/* line 82, ../../app/styles/header.scss */
 
 .navbar.navbar-fixed-bottom .nav-justified li a i {
   -webkit-transition: color .2s ease-in-out;
@@ -179,58 +91,26 @@
   color: #666;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/header\.scss;
-  }
-
-  line {
-    font-family: \0000392;
-  }
-}
+/* line 92, ../../app/styles/header.scss */
 
 .navbar.navbar-fixed-bottom .nav-justified li.active {
   background: black;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/header\.scss;
-  }
-
-  line {
-    font-family: \0000398;
-  }
-}
+/* line 98, ../../app/styles/header.scss */
 
 .navbar.navbar-fixed-bottom .nav-justified li.active a i {
   color: lightcoral;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/header\.scss;
-  }
-
-  line {
-    font-family: \00003104;
-  }
-}
+/* line 104, ../../app/styles/header.scss */
 
 .navbar.navbar-fixed-bottom .nav-justified li:hover a {
   background: #222222;
   color: #888;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/header\.scss;
-  }
-
-  line {
-    font-family: \00003109;
-  }
-}
+/* line 109, ../../app/styles/header.scss */
 
 .navbar.navbar-fixed-bottom .nav-justified li.active:hover a {
   background: black;
