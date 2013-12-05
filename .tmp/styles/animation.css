@@ -6,58 +6,58 @@
   position: relative;
 }
 
-/* line 16, ../../app/styles/animation.scss */
+/* line 7, ../../app/styles/animation.scss */
 
 .view-frame.ng-enter {
   opacity: 0;
-  -webkit-animation: .2s fade-in;
-  animation: .2s fade-in;
+  -webkit-animation: .5s fade-in;
+  animation: .5s fade-in;
   z-index: 3000;
 }
 
 @keyframes fade-in {
-  /* line 34, ../../app/styles/animation.scss */
+  /* line 17, ../../app/styles/animation.scss */
   from {
     opacity: 0;
   }
 
-  /* line 35, ../../app/styles/animation.scss */
+  /* line 18, ../../app/styles/animation.scss */
   to {
     opacity: 1;
   }
 }
 
 @-webkit-keyframes fade-in {
-  /* line 42, ../../app/styles/animation.scss */
+  /* line 25, ../../app/styles/animation.scss */
   from {
     opacity: 0;
   }
 
-  /* line 43, ../../app/styles/animation.scss */
+  /* line 26, ../../app/styles/animation.scss */
   to {
     opacity: 1;
   }
 }
 
 @keyframes fade-out {
-  /* line 47, ../../app/styles/animation.scss */
+  /* line 30, ../../app/styles/animation.scss */
   from {
     opacity: 1;
   }
 
-  /* line 48, ../../app/styles/animation.scss */
+  /* line 31, ../../app/styles/animation.scss */
   to {
     opacity: 0;
   }
 }
 
 @-webkit-keyframes fade-out {
-  /* line 55, ../../app/styles/animation.scss */
+  /* line 38, ../../app/styles/animation.scss */
   from {
     opacity: 1;
   }
 
-  /* line 56, ../../app/styles/animation.scss */
+  /* line 39, ../../app/styles/animation.scss */
   to {
     opacity: 0;
   }

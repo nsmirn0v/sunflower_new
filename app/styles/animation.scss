@@ -4,30 +4,13 @@
   position: relative;
 }
 
-.view-frame.ng-enter,
-.view-frame.ng-leave {
-  // background: white;
-  // position: absolute;
-  // top: 0;
-  // left: 0;
-  // right: 0;
-}
-
 .view-frame.ng-enter {
   opacity: 0; 
-  -webkit-animation: .2s fade-in;
-  -moz-animation: .2s fade-in;
-  -o-animation: .2s fade-in;
-  animation: .2s fade-in;
+  -webkit-animation: .5s fade-in;
+  -moz-animation: .5s fade-in;
+  -o-animation: .5s fade-in;
+  animation: .5s fade-in;
   z-index: 3000;
-}
-
-.view-frame.ng-leave {
-  // -webkit-animation: .2s fade-out;
-  // -moz-animation: .2s fade-out;
-  // -o-animation: .2s fade-out;
-  // animation: .2s fade-out;
-  // z-index: 99;
 }
 
 @keyframes fade-in {
