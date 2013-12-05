@@ -1,0 +1,83 @@
+<div id="home" class="top">
+	<div id="carousel" class="carousel slide hidden-xs" data-ride="carousel">
+
+		<ol class="carousel-indicators">
+			<li data-target="#carousel" data-slide-to="0" class="active"></li>
+			<li data-target="#carousel" data-slide-to="1"></li>
+			<li data-target="#carousel" data-slide-to="2"></li>
+		</ol>
+
+		<div class="carousel-inner">
+			<div ng-repeat="item in carouselItems" ng-class="{ item: true, active: item.active }">
+				<img ng-src="{{ item.url }}">
+				<div class="carousel-caption">
+					<h3>{{ item.h }}</h3>
+					<p>{{ item.p }}</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="carousel" class="carousel slide visible-xs" data-ride="carousel">
+
+		<div class="carousel-inner ">
+			<div ng-repeat="item in carouselItemsMobile" ng-class="{ item: true, active: item.active }">
+				<img ng-src="{{ item.url }}">
+				<div class="carousel-caption">
+					<h3>{{ item.h }}</h3>
+					<p>{{ item.p }}</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="default">
+	<div class="container">
+		<h1>
+			<span>Sunflower</span>
+			<small>
+				is a family based childcare that provides excellent childcare for children of age group 2-5 years old
+			</small>
+		</h1>
+	
+		<div class="row">
+			<div class="col-md-4 attend">
+				<div class="media">
+					<i class="fa fa-clock-o fa-2x pull-left"></i>
+					<div class="media-body">
+						<h4 class="media-heading">Attend</h4>
+						<p>We have options of attending full time or part time, as well as attending full week or partially (2-4 days a week)</p>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="col-md-4 learn">
+				<div class="media">
+					<i class="fa fa-pencil fa-2x pull-left"></i>
+					<div class="media-body">
+						<h4 class="media-heading">Learn</h4>
+						<p>Our childcare provides music lessons, as well as many arts and crafts activities</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 play">
+				<div class="media">
+					<i class="fa fa-smile-o fa-2x pull-left"></i>
+					<div class="media-body">
+						<h4 class="media-heading">Play</h4>
+						<p>We also provide great outside activities on a specially organized playground with many option of toys, such as slide, bicycles, kids’ basketball ring, and many more</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	document.body.scrollTop = document.documentElement.scrollTop = 0;
+	$(".carousel").carousel("cycle");
+</script>
+
+</div>

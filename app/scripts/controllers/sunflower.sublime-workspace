@@ -1,0 +1,2354 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"route",
+				"routeParams"
+			],
+			[
+				"freeti",
+				"FREE_TIER"
+			],
+			[
+				"del",
+				"delegateEvents"
+			],
+			[
+				"Dro",
+				"DropdownListView"
+			],
+			[
+				"userL",
+				"userListTpl"
+			],
+			[
+				"token",
+				"tokenUsage"
+			],
+			[
+				"billi",
+				"BILLING_TOKENS_USAGE"
+			],
+			[
+				"tool",
+				"tooltipWidth"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"toolT",
+				"tooltipWidth"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"contain",
+				"containerWidth"
+			],
+			[
+				"tooltip",
+				"tooltipWidth"
+			],
+			[
+				"month",
+				"monthOffset"
+			],
+			[
+				"update",
+				"updateButtons"
+			],
+			[
+				"mon",
+				"monthOffset"
+			],
+			[
+				"hide",
+				"hideSidenavButtons"
+			],
+			[
+				"notif",
+				"notifications-settings"
+			],
+			[
+				"snap",
+				"snapshot-settings"
+			],
+			[
+				"billing",
+				"billing-report"
+			],
+			[
+				"conte",
+				"contextLine"
+			],
+			[
+				"cur",
+				"cursor-line"
+			],
+			[
+				"coll",
+				"CollectionView"
+			],
+			[
+				"fil",
+				"filters"
+			],
+			[
+				"prot",
+				"prot	prot"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"Coll",
+				"Collection"
+			],
+			[
+				"met",
+				"metricClick"
+			],
+			[
+				"metric",
+				"metricClick"
+			],
+			[
+				"alar",
+				"alarms"
+			],
+			[
+				"sele",
+				"selectAll"
+			],
+			[
+				"upda",
+				"updateContext"
+			],
+			[
+				"sc",
+				"sc	scope"
+			],
+			[
+				"create",
+				"createContextPathSubsets"
+			],
+			[
+				"poi",
+				"point"
+			],
+			[
+				"sub",
+				"subsets"
+			],
+			[
+				"mouse",
+				"mouseout"
+			],
+			[
+				"prev",
+				"prevExtent"
+			],
+			[
+				"pre",
+				"prevSelections"
+			],
+			[
+				"thres",
+				"thresholdValue"
+			],
+			[
+				"fir",
+				"firstPoint"
+			],
+			[
+				"call",
+				"caller"
+			],
+			[
+				"updatecont",
+				"updateContextAxes"
+			],
+			[
+				"drawCha",
+				"drawChartFor"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"isE",
+				"isEqual"
+			],
+			[
+				"curr",
+				"currExtent"
+			],
+			[
+				"draw",
+				"drawCharts"
+			],
+			[
+				"cu",
+				"currSelections"
+			],
+			[
+				"ren",
+				"rendered"
+			],
+			[
+				"last",
+				"lastPoint"
+			],
+			[
+				"sp",
+				"splice"
+			],
+			[
+				"ala",
+				"alarm"
+			],
+			[
+				"alarm",
+				"alarmType"
+			],
+			[
+				"sche",
+				"scheduleUpdate"
+			],
+			[
+				"metri",
+				"metricsRequests"
+			],
+			[
+				"TEN",
+				"TEN_SECONDS"
+			],
+			[
+				"xA",
+				"xAxis2"
+			],
+			[
+				"gx",
+				"gxAxis2"
+			],
+			[
+				"get",
+				"getXDomain"
+			],
+			[
+				"sho",
+				"showTimePeriod"
+			],
+			[
+				"form",
+				"formattedData"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"bise",
+				"bisectDate"
+			],
+			[
+				"format",
+				"formattedModel"
+			],
+			[
+				"subset",
+				"subsets"
+			],
+			[
+				"un",
+				"unraiseTime"
+			],
+			[
+				"formated",
+				"formatedData"
+			],
+			[
+				"initial",
+				"initialBrushExtent"
+			],
+			[
+				"sw",
+				"switchToRealtime"
+			],
+			[
+				"tim",
+				"timestamp"
+			],
+			[
+				"brush",
+				"brushed"
+			],
+			[
+				"fin",
+				"findLatestPoint"
+			],
+			[
+				"po",
+				"points"
+			],
+			[
+				"des",
+				"destroy"
+			],
+			[
+				"color",
+				"colorsHash"
+			],
+			[
+				"desele",
+				"deselectedId"
+			],
+			[
+				"resourc",
+				"resourceIDs"
+			],
+			[
+				"resou",
+				"resourceId"
+			],
+			[
+				"de",
+				"deselectedView"
+			],
+			[
+				"remove",
+				"removeCircleIcon"
+			],
+			[
+				"updatin",
+				"updateIntervalId"
+			],
+			[
+				"remo",
+				"removeCircleIcon"
+			],
+			[
+				"addC",
+				"addCircleIcon"
+			],
+			[
+				"can",
+				"cancelUpdate"
+			],
+			[
+				"me",
+				"metricsRequests"
+			],
+			[
+				"view",
+				"viewport"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"go",
+				"groupSwitcher"
+			],
+			[
+				"whites",
+				"whitesmoke"
+			],
+			[
+				"white",
+				"whitesmoke"
+			],
+			[
+				"padd",
+				"paddingTop"
+			],
+			[
+				"append",
+				"appendAndRenderChild"
+			],
+			[
+				"rend",
+				"renderTimline"
+			],
+			[
+				"metriRe",
+				"metricsRequests"
+			],
+			[
+				"sparkl",
+				"sparklineMetrics"
+			],
+			[
+				"timeou",
+				"timeoutId"
+			],
+			[
+				"up",
+				"updateTimeoutId"
+			],
+			[
+				"m",
+				"metrics"
+			],
+			[
+				"context",
+				"context"
+			],
+			[
+				"dataSet",
+				"dataSets"
+			],
+			[
+				"break",
+				"breakUpDataIntoSubsets"
+			],
+			[
+				"dataS",
+				"dataSet"
+			],
+			[
+				"getEle",
+				"getElementById"
+			],
+			[
+				"al",
+				"alarmGroup"
+			],
+			[
+				"filter",
+				"filtered"
+			],
+			[
+				"chart-",
+				"chart-line"
+			],
+			[
+				"chart",
+				"chartGroup"
+			],
+			[
+				"dr",
+				"drawAlarms"
+			],
+			[
+				"raise",
+				"raiseTime"
+			],
+			[
+				"tie",
+				"timestamp"
+			],
+			[
+				"rai",
+				"raiseTime"
+			],
+			[
+				"fill",
+				"fillColor"
+			],
+			[
+				"mou",
+				"mouseout"
+			],
+			[
+				"metricRe",
+				"metricRequests"
+			],
+			[
+				"metr",
+				"metricsRequests"
+			],
+			[
+				"drar",
+				"drawAlarms"
+			],
+			[
+				"resource",
+				"resourceId"
+			],
+			[
+				"find",
+				"findWhere"
+			],
+			[
+				"mouseo",
+				"mouseout"
+			],
+			[
+				"init",
+				"initTooltip"
+			],
+			[
+				"spa",
+				"sparklineMetrics"
+			],
+			[
+				"is",
+				"isEqual"
+			],
+			[
+				"resour",
+				"resourceId"
+			],
+			[
+				"dese",
+				"deselectResource"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"tran",
+				"transition"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/nikolay/code/nodejs/sunflower/app/index.html",
+			"settings":
+			{
+				"buffer_size": 2738,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nikolay/code/nodejs/sunflower/app/scripts/app.js",
+			"settings":
+			{
+				"buffer_size": 384,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nikolay/code/nodejs/sunflower/app/views/contact.html",
+			"settings":
+			{
+				"buffer_size": 16,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 512,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nikolay/code/nodejs/sunflower/app/views/main.html",
+			"settings":
+			{
+				"buffer_size": 600,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nikolay/code/nodejs/sunflower/app/views/layouts/header.html",
+			"settings":
+			{
+				"buffer_size": 274,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"diff cur",
+				"Git: Diff Current File"
+			],
+			[
+				"dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"gitdif",
+				"Git: Diff Current File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Anoynmous Function"
+			],
+			[
+				"diff",
+				"Git: Diff All"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sscs",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssj",
+				"Set Syntax: JSON"
+			],
+			[
+				"ss:js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss:pt",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ss:text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ss:j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				":$",
+				":$ - EOF"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"syntax JSO",
+				"Set Syntax: JSON"
+			],
+			[
+				"syn: ja",
+				"Set Syntax: Java Properties"
+			],
+			[
+				"syntax: java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set syntax:text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"",
+				"Bookmarks: Select Next"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nikolay/code/nodejs/sunflower/app/views/header.html",
+		"/Users/nikolay/code/nodejs/sunflower/app/views/footer.html",
+		"/Users/nikolay/code/rails/sunflower/app/assets/javascripts/partials/gallery.html",
+		"/Users/nikolay/code/rails/sunflower/Gemfile",
+		"/Users/nikolay/code/rails/sunflower/app/assets/javascripts/application.js",
+		"/Users/nikolay/code/rails/sunflower/app/assets/javascripts/controllers.js",
+		"/Users/nikolay/code/rails/sunflower/app/views/layouts/_footer.html.erb",
+		"/Users/nikolay/code/rails/sunflower/app/views/layouts/_header.html.erb",
+		"/Users/nikolay/code/rails/sunflower/app/assets/stylesheets/custom.css.scss",
+		"/Users/nikolay/code/rails/sunflower/app/assets/stylesheets/pages.css.scss",
+		"/Users/nikolay/code/cloudweaver/code/src/styles/app.scss",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/common/MainNavbar.js",
+		"/Users/nikolay/code/cloudweaver/code/src/styles/components/navbar.scss",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/admin/UserItem.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/admin/ChangePlanDropdown.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/registration/billing/model/PaymentMethodUpdate.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/generic/DropdownList.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/admin/tpl/planChange.html",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/model/admin/RealtimeTokenUsage.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/model/admin/TokenUsageAverage.js",
+		"/Users/nikolay/code/cloudweaver/webserver/routes/administration/api.js",
+		"/Users/nikolay/code/cloudweaver/webserver/routes/billing/api.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/account/tpl/productList.html",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/app.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/admin/UserList.js",
+		"/Users/nikolay/code/cloudweaver/webserver/config/paul.js",
+		"/Users/nikolay/code/cloudweaver/webserver/lib/users.js",
+		"/Users/nikolay/code/cloudweaver/webserver/lib/errors.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/admin/DoNotBillDropdown.js",
+		"/Users/nikolay/Documents/Lyatiss/cheatsheet",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/generic/TableWidget.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/generic/CollectionView.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/generic/Widget.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/generic/tpl/dropdown.html",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/admin/EventList.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/admin/UrlList.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/generic/Collection.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/account/BillingReport.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/common/ResourceTable.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/generic/TableView.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/admin/Admin.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/registration/view/RegisterModal.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/admin/tpl/userList.html",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/account/ProductList.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/operations/charts/ResourceSelector.js",
+		"/Users/nikolay/code/cloudweaver/code/src/styles/plugins/datatables.scss",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/AdministrationRouter.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/admin/UserActionsDropdown.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/admin/tpl/userListItem.html",
+		"/Users/nikolay/code/cloudweaver/webserver/app.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/account/Billing.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/registration/billing/collection/Product.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/report/Report.js",
+		"/Users/nikolay/code/cloudweaver/code/src/styles/sections/billing.scss",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/sections/EdtResultDetails.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/account/tpl/billingReport.html",
+		"/Users/nikolay/code/cloudweaver/code/target/assets/images/CloudWeaver®_files/ChartContainer.js",
+		"/Users/nikolay/code/cloudweaver/code/src/styles/components/charts.scss",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/collection/ActivityJournal.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/account/Account.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/MainSectionPage.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/collection/AlarmEvent.js",
+		"/Users/nikolay/code/cloudweaver/code/src/styles/components/sidenav.scss",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/FullRouter.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/BasicRouter.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/common/Map.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/maps/FlowMap.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/common/MapContainer.js",
+		"/Users/nikolay/code/cloudweaver/webserver/config/edt.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/collection/Event.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/rconfig.libs.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/rconfig.discovery.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/rconfig.full.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/common/PageNavbar.js",
+		"/Users/nikolay/code/cloudweaver/code/src/styles/components/article.scss",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/generic/SectionPage.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/common/Viewport.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/common/MainToolbar.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/collection/operations/UnidirectionalFlow.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/collection/build/Family.js",
+		"/Users/nikolay/code/cloudweaver/code/target/assets/images/CloudWeaver®_files/SectionPage.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/common/tpl/toolbar.html",
+		"/Users/nikolay/code/cloudweaver/code/src/js/discovery/view/MainNavbar.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/common/tpl/main-navbar.html",
+		"/Users/nikolay/code/cloudweaver/code/src/js/discovery/view/tpl/main-navbar.html",
+		"/Users/nikolay/code/cloudweaver/code/target/assets/images/CloudWeaver®_files/rconfig.full.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/administration/view/MainNavbar.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/operations/charts/ChartContainer.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/account/TokenList.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/common/AlertsTray.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/model/build/Node.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/common/tpl/alertstray.html",
+		"/Users/nikolay/code/cloudweaver/code/src/js/tests/build/model/NodeTest.js",
+		"/Users/nikolay/code/cloudweaver/code/target/assets/images/CloudWeaver®_files/MainToolbar.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/common/tpl/emptyAlertstray.html",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/common/tpl/actionEvent.html",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/common/tpl/nodeAlarmEvent.html",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/common/tpl/flowAlarmEvent.html",
+		"/Users/nikolay/code/cloudweaver/code/target/assets/images/CloudWeaver®_files/FlowAlarm.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/generic.old/Collection.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/collection/build/Node.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/collection/snapshots/Snapshot.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/collection/build/Resource.js",
+		"/Users/nikolay/code/javascript/naturalsort/naturalSort.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/sections/NodeDetails.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/build/NodeDetails.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/collection/operations/Flow.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/snapshots/Timeline.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/sections/Flows.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/discovery/view/AlertsTray.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/model/operations/Alarm.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/MetricsManager.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/lib/bootstrap/tests/unit/bootstrap-carousel.js",
+		"/Users/nikolay/code/cloudweaver/code/src/styles/plugins/font-awesome.scss",
+		"/Users/nikolay/code/cloudweaver/code/src/js/lib/d3.v3.js",
+		"/Users/nikolay/code/cloudweaver/webserver/lib/metric_infos.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/utils/dictionary.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/utils/utils.js",
+		"/Users/nikolay/code/cloudweaver/webserver/test/userplan-test.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/operations/charts/tpl/resource.html",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/operations/charts/NodeChart.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/operations/charts/MetricSelector.js",
+		"/Users/nikolay/code/cloudweaver/code/src/styles/components/subhead.scss",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/report/DonutChart.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/operations/charts/ColorPicker.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/collection/operations/Measure.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/operations/OperationsItem.js",
+		"/Users/nikolay/code/cloudweaver/code/src/js/app/view/operations/NodeList.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/nikolay/code/cloudweaver/",
+			"/Users/nikolay/code/cloudweaver/code",
+			"",
+			"/Users/nikolay/code/cloudweaver",
+			"/Users/nikolay/code/cloudweaver/webserver",
+			"/Users/nikolay/code/cloudweaver/webserver/**/*.js",
+			"",
+			"/Users/nikolay/code/cloudweaver/webserver/**/*.js",
+			"/Users/nikolay/code/cloudweaver",
+			"/Users/nikolay/code/cloudweaver/webserver",
+			"/Users/nikolay/code/cloudweaver",
+			"/Users/nikolay/code/cloudweaver/webserver",
+			"/Users/nikolay/code/cloudweaver",
+			"/Users/nikolay/code/cloudweaver/webserver",
+			"/Users/nikolay/code/cloudweaver/",
+			"/Users/nikolay/code/cloudweaver/webserver",
+			"/Users/nikolay/code/cloudweaver",
+			"/Users/nikolay/code/cloudweaver/webserver/**/*.js",
+			"/Users/nikolay/code/cloudweaver",
+			"/Users/nikolay/code/cloudweaver/code/",
+			"/Users/nikolay/code/cloudweaver/code/js/app",
+			"/Users/nikolay/code/cloudweaver/code/",
+			"/Users/nikolay/code/cloudweaver/code/js/app",
+			"/Users/nikolay/code/cloudweaver/code/",
+			"/Users/nikolay/code/cloudweaver/code/js/app",
+			"/Users/nikolay/code/cloudweaver/code/src/styles",
+			"/Users/nikolay/code/cloudweaver/code/src/js/app",
+			"/Users/nikolay/code/cloudweaver",
+			"/Users/nikolay/code/cloudweaver/code/src/styles",
+			"/Users/nikolay/code/cloudweaver",
+			"/Users/nikolay/code/javascript/node/sunflower",
+			"/Users/nikolay/code/cloudweaver/code/src/js",
+			"/Users/nikolay/code/cloudweaver/code/src/js/app/view/report",
+			"/Users/nikolay/code/cloudweaver/code",
+			"/Users/nikolay/code/cloudweaver/webserver",
+			"/Users/nikolay/code/cloudweaver/webserver/routes",
+			"/Users/nikolay/code/cloudweaver",
+			"/Users/nikolay/code/cloudweaver/",
+			"/Users/nikolay/code/cloudweaver/code/src/",
+			"/Users/nikolay/code/cloudweaver/code/src/js/app",
+			"/Users/nikolay/code/cloudweaver/code/src/js/app/view/build",
+			"/Users/nikolay/code/cloudweaver",
+			"/Users/nikolay/code/cloudweaver/code/src/js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"id",
+			"viewLocation",
+			"element",
+			"'views/",
+			"ng-include",
+			"div",
+			"fullSize",
+			"http://imageshack.com/a/img41/9346/qbtt.jpg",
+			"http://imageshack.com/a/img43/8645/kv56.jpg",
+			"pictureId",
+			"li",
+			"{ ",
+			"{ f",
+			"http://",
+			"routeProvider",
+			"$routeParams",
+			"assets/partials/picture",
+			"email",
+			".animate({",
+			"getrun",
+			"getruns",
+			"getlatestre",
+			"getLatestResults",
+			"rerender",
+			".trial",
+			"toggletrial",
+			"showtrial",
+			"admin/user",
+			"paymentMethodUpdate",
+			"user",
+			"hidden",
+			"throw ",
+			"throw",
+			"usermanage",
+			"getuserbyide",
+			"realtimeUsage",
+			"products",
+			"errors.",
+			"applyAction",
+			"on(",
+			"planChnageTpl",
+			"scope",
+			"searchproperties",
+			"scope",
+			"search",
+			"parseDetails",
+			"console",
+			": self.",
+			"TokenUsageAverageModel",
+			"token",
+			".admin",
+			"dropdonw",
+			"CollectionView",
+			"Collectionview",
+			"CollectionView",
+			"\"",
+			"View",
+			"view",
+			"View",
+			"div",
+			"redirectToUpdatePage",
+			"products",
+			"Products",
+			"scope",
+			"tableColumns",
+			"this",
+			"data",
+			"console",
+			"xPos",
+			"on(\"mouseout",
+			"@include transition",
+			"on(\"mouseout",
+			"container",
+			"offset",
+			"obj",
+			"},\n",
+			"// 59",
+			"span",
+			"showtooltip",
+			"label",
+			"lable",
+			"label",
+			"next",
+			"filterTokenUsage",
+			"console",
+			"render",
+			"getTokenLimit",
+			"collection",
+			"products",
+			"app ",
+			"getTokenLimit",
+			"filterTokenUsage",
+			"scope",
+			"ProductCollection",
+			"productCollection",
+			"ProductCollection",
+			"productCollection",
+			"ProductCollection",
+			"productCollection",
+			"discovery",
+			"cms",
+			"sections: {",
+			"self",
+			"donkey2",
+			"page-navbar.html",
+			"sidenav",
+			"loading",
+			"visible",
+			"line",
+			"timeout",
+			"this",
+			"beforeLoad",
+			"initapplicationlayout",
+			"add(\"mainToolbar\"",
+			"margin-top",
+			"enableGroupSwi",
+			"toolbar",
+			"maintoo",
+			"cwToolbar",
+			"min-he",
+			"initApplicationLayout",
+			"MainToolbar",
+			"mainNavBar",
+			"t",
+			"cursorLine",
+			" ",
+			"console"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/nikolay/code/nodejs/sunflower/app/index.html",
+					"settings":
+					{
+						"buffer_size": 2738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1854,
+								1796
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/nikolay/code/nodejs/sunflower/app/scripts/app.js",
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								314,
+								314
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/nikolay/code/nodejs/sunflower/app/views/contact.html",
+					"settings":
+					{
+						"buffer_size": 16,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "main.js",
+					"settings":
+					{
+						"buffer_size": 512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								186
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/Users/nikolay/code/nodejs/sunflower/app/views/main.html",
+					"settings":
+					{
+						"buffer_size": 600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/nikolay/code/nodejs/sunflower/app/views/layouts/header.html",
+					"settings":
+					{
+						"buffer_size": 274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"footer",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"app.js",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"cus",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"header.ht",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"custom",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"page.scss",
+				"app/assets/stylesheets/pages.css.scss"
+			],
+			[
+				"_foo",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"viewreport.js",
+				"code/src/js/app/view/report/Report.js"
+			],
+			[
+				"alarmevent.js",
+				"code/src/js/app/collection/AlarmEvent.js"
+			],
+			[
+				"collectionevent.js",
+				"code/src/js/app/collection/Event.js"
+			],
+			[
+				"alerttra.js",
+				"code/src/js/app/view/common/AlertsTray.js"
+			],
+			[
+				"app/app.js",
+				"code/src/js/app/app.js"
+			],
+			[
+				"app.scss",
+				"code/src/styles/app.scss"
+			],
+			[
+				"navbar.scss",
+				"code/src/styles/components/navbar.scss"
+			],
+			[
+				"administapi.js",
+				"webserver/routes/administration/api.js"
+			],
+			[
+				"billing/api.j",
+				"webserver/routes/billing/api.js"
+			],
+			[
+				"registration/billing/model/paymentmethodupdate",
+				"code/src/js/registration/billing/model/PaymentMethodUpdate.js"
+			],
+			[
+				"/view/generic/dropdownlist",
+				"code/src/js/app/view/generic/DropdownList.js"
+			],
+			[
+				"app/view/admin/tpl/planchange.html",
+				"code/src/js/app/view/admin/tpl/planChange.html"
+			],
+			[
+				"app/model/admin/realtimetokenusage",
+				"code/src/js/app/model/admin/RealtimeTokenUsage.js"
+			],
+			[
+				"app/model/admin/tokenusageaverage",
+				"code/src/js/app/model/admin/TokenUsageAverage.js"
+			],
+			[
+				"app/view/admin/changeplandropdown",
+				"code/src/js/app/view/admin/ChangePlanDropdown.js"
+			],
+			[
+				"admin/useritm",
+				"code/src/js/app/view/admin/UserItem.js"
+			],
+			[
+				"producl",
+				"code/src/js/app/view/account/tpl/productList.html"
+			],
+			[
+				"adminiapi.js",
+				"webserver/routes/administration/api.js"
+			],
+			[
+				"app.sc",
+				"code/src/styles/app.scss"
+			],
+			[
+				"paul.js",
+				"webserver/config/paul.js"
+			],
+			[
+				"lib/user",
+				"webserver/lib/users.js"
+			],
+			[
+				"error",
+				"webserver/lib/errors.js"
+			],
+			[
+				"useritem",
+				"code/src/js/app/view/admin/UserItem.js"
+			],
+			[
+				"adminuserlist",
+				"code/src/js/app/view/admin/UserList.js"
+			],
+			[
+				"billingapi",
+				"webserver/routes/billing/api.js"
+			],
+			[
+				"error.s",
+				"webserver/lib/errors.js"
+			],
+			[
+				"adminapi",
+				"webserver/routes/administration/api.js"
+			],
+			[
+				"changepla",
+				"code/src/js/app/view/admin/ChangePlanDropdown.js"
+			],
+			[
+				"plandrop",
+				"code/src/js/app/view/admin/ChangePlanDropdown.js"
+			],
+			[
+				"app/view/admin/donotbilldropdown",
+				"code/src/js/app/view/admin/DoNotBillDropdown.js"
+			],
+			[
+				"collectionview",
+				"code/src/js/generic/CollectionView.js"
+			],
+			[
+				"app/view/generic/widget",
+				"code/src/js/app/view/generic/Widget.js"
+			],
+			[
+				"app/view/generic/tablewidget",
+				"code/src/js/app/view/generic/TableWidget.js"
+			],
+			[
+				"app/view/generic/tpl/dropdown.html",
+				"code/src/js/app/view/generic/tpl/dropdown.html"
+			],
+			[
+				"app/view/generic/dropdownlist",
+				"code/src/js/app/view/generic/DropdownList.js"
+			],
+			[
+				"useritm.js",
+				"code/src/js/app/view/admin/UserItem.js"
+			],
+			[
+				"userlist.js",
+				"code/src/js/app/view/admin/UserList.js"
+			],
+			[
+				"tableview",
+				"code/src/js/generic/TableView.js"
+			],
+			[
+				"resourcetable",
+				"code/src/js/app/view/common/ResourceTable.js"
+			],
+			[
+				"tablewi",
+				"code/src/js/app/view/generic/TableWidget.js"
+			],
+			[
+				"userlist",
+				"code/src/js/app/view/admin/UserList.js"
+			],
+			[
+				"billingrepor",
+				"code/src/js/app/view/account/BillingReport.js"
+			],
+			[
+				"registermodal",
+				"code/src/js/registration/view/RegisterModal.js"
+			],
+			[
+				"app/view/admin/urllist",
+				"code/src/js/app/view/admin/UrlList.js"
+			],
+			[
+				"app/view/admin/eventlist",
+				"code/src/js/app/view/admin/EventList.js"
+			],
+			[
+				"admin.js",
+				"code/src/js/app/view/admin/Admin.js"
+			],
+			[
+				"administrationrout",
+				"code/src/js/app/AdministrationRouter.js"
+			],
+			[
+				"changeplan",
+				"code/src/js/app/view/admin/ChangePlanDropdown.js"
+			],
+			[
+				"table.scss",
+				"code/src/styles/plugins/datatables.scss"
+			],
+			[
+				"webserver/app.js",
+				"webserver/app.js"
+			],
+			[
+				"collectionview.js",
+				"code/src/js/generic/CollectionView.js"
+			],
+			[
+				"resourcesele",
+				"code/src/js/app/view/operations/charts/ResourceSelector.js"
+			],
+			[
+				"productlist.js",
+				"code/src/js/app/view/account/ProductList.js"
+			],
+			[
+				"tab",
+				"code/src/js/app/view/generic/TableWidget.js"
+			],
+			[
+				"table",
+				"code/src/js/generic/TableView.js"
+			],
+			[
+				"app/view/account/tpl/productlist.html",
+				"code/src/js/app/view/account/tpl/productList.html"
+			],
+			[
+				"app",
+				"webserver/app.js"
+			],
+			[
+				"registration/billing/collection/product",
+				"code/src/js/registration/billing/collection/Product.js"
+			],
+			[
+				"api",
+				"webserver/routes/administration/api.js"
+			],
+			[
+				"billing.js",
+				"code/src/js/app/view/account/Billing.js"
+			],
+			[
+				"report.js",
+				"code/src/js/app/view/report/Report.js"
+			],
+			[
+				"app/view/admin/tpl/userlistitem.html",
+				"code/src/js/app/view/admin/tpl/userListItem.html"
+			],
+			[
+				"adminusert",
+				"code/src/js/app/view/admin/UserItem.js"
+			],
+			[
+				"adminuser.js",
+				"code/src/js/app/view/admin/UserActionsDropdown.js"
+			],
+			[
+				"adminusers.js",
+				"code/src/js/app/view/admin/UserList.js"
+			],
+			[
+				"billing.scss",
+				"code/src/styles/sections/billing.scss"
+			],
+			[
+				"billingrepo",
+				"code/src/js/app/view/account/BillingReport.js"
+			],
+			[
+				"paul",
+				"webserver/config/paul.js"
+			],
+			[
+				"edt",
+				"code/src/js/app/view/sections/EdtResultDetails.js"
+			],
+			[
+				"productlist",
+				"code/src/js/app/view/account/ProductList.js"
+			],
+			[
+				"charcontainer",
+				"code/target/assets/images/CloudWeaver®_files/ChartContainer.js"
+			],
+			[
+				"chart.scss",
+				"code/src/styles/components/charts.scss"
+			],
+			[
+				"app/view/account/tpl/billingreport.html",
+				"code/src/js/app/view/account/tpl/billingReport.html"
+			],
+			[
+				"app/collection/activityjournal",
+				"code/src/js/app/collection/ActivityJournal.js"
+			],
+			[
+				"billing",
+				"code/src/js/app/view/account/BillingReport.js"
+			],
+			[
+				"app/view/account/billing",
+				"code/src/js/app/view/account/Billing.js"
+			],
+			[
+				"basic",
+				"code/src/js/app/BasicRouter.js"
+			],
+			[
+				"router",
+				"code/src/js/app/FullRouter.js"
+			],
+			[
+				"sidenav",
+				"code/src/styles/components/sidenav.scss"
+			],
+			[
+				"account.js",
+				"code/src/js/app/view/account/Account.js"
+			],
+			[
+				"page",
+				"code/src/js/app/view/MainSectionPage.js"
+			],
+			[
+				"event.js",
+				"code/src/js/app/collection/Event.js"
+			],
+			[
+				"alarmevent",
+				"code/src/js/app/collection/AlarmEvent.js"
+			],
+			[
+				"commonmap.js",
+				"code/src/js/app/view/common/Map.js"
+			],
+			[
+				"flowmap",
+				"code/src/js/app/view/maps/FlowMap.js"
+			],
+			[
+				"mapconta",
+				"code/src/js/app/view/common/MapContainer.js"
+			],
+			[
+				"edt.js",
+				"webserver/config/edt.js"
+			],
+			[
+				"rconfig",
+				"code/src/js/rconfig.libs.js"
+			],
+			[
+				"mainsectionp",
+				"code/src/js/app/view/MainSectionPage.js"
+			],
+			[
+				"productlist.html",
+				"code/src/js/app/view/account/tpl/productList.html"
+			],
+			[
+				"article.scss",
+				"code/src/styles/components/article.scss"
+			],
+			[
+				"maintoolbar.js",
+				"code/src/js/app/view/common/MainToolbar.js"
+			],
+			[
+				"mainsection",
+				"code/src/js/app/view/MainSectionPage.js"
+			],
+			[
+				"sectionpage",
+				"code/src/js/app/view/generic/SectionPage.js"
+			],
+			[
+				"mainnav",
+				"code/src/js/app/view/common/MainNavbar.js"
+			],
+			[
+				"app/collection/operations/unidirectionalflow.js",
+				"code/src/js/app/collection/operations/UnidirectionalFlow.js"
+			],
+			[
+				"blame",
+				"Git Blame"
+			],
+			[
+				"collection/build/family.js",
+				"code/src/js/app/collection/build/Family.js"
+			],
+			[
+				"js/app/basicrouter.js",
+				"code/src/js/app/BasicRouter.js"
+			],
+			[
+				"rconfig.ful",
+				"code/src/js/rconfig.full.js"
+			],
+			[
+				"discovery/view/tpl/main-navbar.html",
+				"code/src/js/discovery/view/tpl/main-navbar.html"
+			],
+			[
+				"reconfig.full",
+				"code/target/assets/images/CloudWeaver®_files/rconfig.full.js"
+			],
+			[
+				"rconfig.di",
+				"code/src/js/rconfig.discovery.js"
+			],
+			[
+				"app/view/common/tpl/toolbar.html",
+				"code/src/js/app/view/common/tpl/toolbar.html"
+			],
+			[
+				"app/view/common/maintoolbar",
+				"code/src/js/app/view/common/MainToolbar.js"
+			],
+			[
+				"viewport.js",
+				"code/src/js/app/view/common/Viewport.js"
+			],
+			[
+				"mainnavbar",
+				"code/src/js/discovery/view/MainNavbar.js"
+			],
+			[
+				"app/view/common/tpl/main-navbar.html",
+				"code/src/js/app/view/common/tpl/main-navbar.html"
+			],
+			[
+				"mainnva",
+				"code/src/js/administration/view/MainNavbar.js"
+			],
+			[
+				"charts.scs",
+				"code/src/styles/components/charts.scss"
+			],
+			[
+				"chartcontain",
+				"code/src/js/app/view/operations/charts/ChartContainer.js"
+			],
+			[
+				"app/view/account/tokenlist",
+				"code/src/js/app/view/account/TokenList.js"
+			],
+			[
+				"viewaccount.js",
+				"code/src/js/app/view/account/Account.js"
+			],
+			[
+				"modelbuildnode.js",
+				"code/src/js/app/model/build/Node.js"
+			],
+			[
+				"buildmodelnode.js",
+				"code/src/js/tests/build/model/NodeTest.js"
+			],
+			[
+				"toolbar",
+				"code/target/assets/images/CloudWeaver®_files/MainToolbar.js"
+			],
+			[
+				"genericcolle",
+				"code/src/js/generic/Collection.js"
+			],
+			[
+				"app/view/common/tpl/emptyalertstray.html",
+				"code/src/js/app/view/common/tpl/emptyAlertstray.html"
+			],
+			[
+				"viewevent",
+				"code/src/js/app/view/common/tpl/nodeAlarmEvent.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 162.0,
+	"status_bar_visible": true
+}

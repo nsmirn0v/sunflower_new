@@ -1,0 +1,80 @@
+/* cross fading between routes with ngView */
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/animation\.scss;
+  }
+
+  line {
+    font-family: \000033;
+  }
+}
+
+.view-container {
+  position: relative;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/animation\.scss;
+  }
+
+  line {
+    font-family: \0000316;
+  }
+}
+
+.view-frame.ng-enter {
+  opacity: 0;
+  -webkit-animation: .2s fade-in;
+  animation: .2s fade-in;
+  z-index: 3000;
+}
+
+@keyframes fade-in {
+  /* line 34, ../../app/styles/animation.scss */
+  from {
+    opacity: 0;
+  }
+
+  /* line 35, ../../app/styles/animation.scss */
+  to {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fade-in {
+  /* line 42, ../../app/styles/animation.scss */
+  from {
+    opacity: 0;
+  }
+
+  /* line 43, ../../app/styles/animation.scss */
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fade-out {
+  /* line 47, ../../app/styles/animation.scss */
+  from {
+    opacity: 1;
+  }
+
+  /* line 48, ../../app/styles/animation.scss */
+  to {
+    opacity: 0;
+  }
+}
+
+@-webkit-keyframes fade-out {
+  /* line 55, ../../app/styles/animation.scss */
+  from {
+    opacity: 1;
+  }
+
+  /* line 56, ../../app/styles/animation.scss */
+  to {
+    opacity: 0;
+  }
+}

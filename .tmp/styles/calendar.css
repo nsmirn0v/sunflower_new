@@ -1,0 +1,189 @@
+/* Styles for calendar */
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/calendar\.scss;
+  }
+
+  line {
+    font-family: \000032;
+  }
+}
+
+#calendar-section {
+  margin-top: 75px;
+}
+
+@media (max-width: 768px) {
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/calendar\.scss;
+    }
+
+    line {
+      font-family: \000037;
+    }
+}
+
+  #calendar-section {
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 320px) {
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/calendar\.scss;
+    }
+
+    line {
+      font-family: \0000313;
+    }
+}
+
+  #calendar iframe {
+    width: 290px;
+    height: 300px;
+  }
+}
+
+@media (min-width: 768px) {
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/calendar\.scss;
+    }
+
+    line {
+      font-family: \0000320;
+    }
+}
+
+  #calendar iframe {
+    width: 720px;
+    height: 600px;
+  }
+}
+
+@media (min-width: 992px) {
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/calendar\.scss;
+    }
+
+    line {
+      font-family: \0000327;
+    }
+}
+
+  #calendar iframe {
+    width: 940px;
+    height: 600px;
+  }
+}
+
+@media (min-width: 1200px) {
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/calendar\.scss;
+    }
+
+    line {
+      font-family: \0000335;
+    }
+}
+
+  #calendar iframe {
+    width: 1140px;
+    height: 600px;
+  }
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/calendar\.scss;
+  }
+
+  line {
+    font-family: \0000343;
+  }
+}
+
+.nav-pills li a {
+  color: #555;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/calendar\.scss;
+  }
+
+  line {
+    font-family: \0000347;
+  }
+}
+
+.nav-pills li a:hover,
+.nav-pills li a:focus {
+  background: white;
+  color: #555;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/calendar\.scss;
+  }
+
+  line {
+    font-family: \0000355;
+  }
+}
+
+.nav-pills li.active a,
+.nav-pills li.active > a:hover,
+.nav-pills li.active > a:focus {
+  background: whitesmoke;
+  color: lightcoral;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/calendar\.scss;
+  }
+
+  line {
+    font-family: \0000363;
+  }
+}
+
+.tab-content #schedule {
+  padding-top: 15px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/calendar\.scss;
+  }
+
+  line {
+    font-family: \0000366;
+  }
+}
+
+.tab-content #schedule h4 {
+  color: gray;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/calendar\.scss;
+  }
+
+  line {
+    font-family: \0000371;
+  }
+}
+
+.tab-content #calendar {
+  padding-top: 25px;
+  padding-bottom: 20px;
+}

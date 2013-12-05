@@ -1,0 +1,75 @@
+/* Styles for calendar */
+#calendar-section {
+	margin-top: 75px;
+}
+
+@media (max-width: 768px) {
+	#calendar-section {
+		margin-top: 20px;
+	}
+}
+
+@media (min-width: 320px) {
+	#calendar iframe {
+		width: 290px;
+		height: 300px;
+	}
+}
+
+@media (min-width: 768px) {
+  	#calendar iframe {
+		width: 720px;
+		height: 600px;
+	}
+}
+
+@media (min-width: 992px) {
+    #calendar iframe {
+  		width: 940px;
+  		height: 600px;
+  	}
+}
+
+
+@media (min-width: 1200px) {
+	#calendar iframe {
+		width: 1140px;
+		height: 600px;
+	}
+}
+
+.nav-pills {
+	li {
+		a {
+			color: #555;
+
+			&:hover,
+			&:focus {
+				background: white;
+				color: #555;
+			}
+		}
+
+		&.active a,
+		&.active>a:hover,
+		&.active>a:focus {
+			background: whitesmoke;
+			color: lightcoral;
+		}
+	}
+}
+
+.tab-content {
+	#schedule {
+		padding-top: 15px;
+
+		h4 {
+			color: gray;
+		}
+	}
+
+	#calendar {
+		padding-top: 25px;
+		padding-bottom: 20px;
+	}
+}

@@ -1,0 +1,10 @@
+.default.footer {
+	padding-bottom: 25px;
+	background: #eeeeee;
+}
+
+@media (max-width: 768px) {
+  	.default.footer {
+  		margin-bottom: 50px;
+  	}
+}

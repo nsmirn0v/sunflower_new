@@ -1,0 +1,111 @@
+/* Styles for gallery */
+.gallery {
+	margin-top: 75px;
+	margin-bottom: 20px;
+	padding: 0;
+
+	.img-thumbnail {
+		border: 0;
+		padding: 1px;
+
+		img {
+			-webkit-transition: border-color .2s;
+			-moz-transition: border-color .2s;
+			-o-transition: border-color .2s;
+			-ie-transition: border-color .2s;
+			transition: border-color .2s;
+			-webkit-border-radius: 2px;
+			-moz-border-radius: 2px;
+			-o-border-radius: 2px;
+			-ie-border-radius: 2px;
+			border-radius: 2px;
+			border: 1px solid #eeeeee;
+
+			&:hover {
+				border-color: yellowgreen;
+			}
+		}
+	}
+}
+
+.fullsize {
+	z-index: 1000;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: white;
+	height: 100%;
+
+	.img-responsive {
+		-moz-border-radius: 2px;
+		-o-border-radius: 2px;
+		-ie-border-radius: 2px;
+		border-radius: 2px;
+		margin: 0 auto;
+		box-shadow: 1px 1px 3px gray;
+		border: 1px solid #eeeeee;
+	}
+
+	.wrapper {
+	   height:100%;
+	   width: 100%;
+	   margin: 0;
+	   padding: 0;
+	   border: 0;
+	}
+	.wrapper td {
+	   vertical-align: middle;
+	   text-align: center;
+
+	   .loading {
+	   		position: fixed;
+	   		top: 46%;
+	   		left: 49%;
+	   		right: 49%;
+	   		z-index: -1;
+	   }
+	}
+
+	.left,
+	.right {
+		position: fixed;
+		top: 45%;
+		bottom: 45%;
+		color: #555;
+
+		&:hover {
+			color: lightcoral;
+		}
+	}
+
+	.left {
+		left: 15px;
+	}
+
+	.right {
+		right: 15px;
+	}
+
+	.back {
+		position: fixed;
+		top: 1%;
+		right: 1%;
+		color: #555;
+
+		&:hover {
+			color: lightcoral;
+		}
+	}
+}
+
+@media (max-width: 768px) {
+	.gallery {
+		margin-top: 20px;
+
+		.img-thumbnail {
+			padding: 0;
+		}
+	}
+}

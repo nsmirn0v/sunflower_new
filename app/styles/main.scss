@@ -1,0 +1,68 @@
+// $icon-font-path: "/bower_components/sass-bootstrap/fonts/";
+$fa-font-path: "/bower_components/font-awesome/fonts/";
+
+@import 'sass-bootstrap/lib/bootstrap';
+@import 'font-awesome/scss/font-awesome';
+@import 'header';
+@import 'home';
+@import 'calendar';
+@import 'footer';
+@import 'gallery';
+@import 'animation';
+
+/* Content */
+.default {
+	border-bottom: 1px solid #eeeeee;
+
+	&.odd {
+		background: whitesmoke
+	}
+
+	&.even {
+	}
+
+	&.calendar {
+		margin-top: 25px;
+	}
+
+	.page-header {
+		color: gray;
+	}
+
+	h1 {
+		font-weight: 200;
+		color: gray;
+		span {
+			color: lightcoral;
+		}
+	}
+}
+
+.col-md-4 {
+	padding: 15px;
+	padding-top:20px;
+
+	&.attend i {
+		color: deepskyblue;
+	}
+
+	&.learn i {
+		color: blueviolet
+	}
+
+	&.play i {
+		color: yellowgreen;
+	}
+
+	h4 {
+		color: gray;
+	}
+
+	&.address,
+	&.phone,
+	&.email {
+		i {
+			color: lightcoral;
+		}
+	}
+}

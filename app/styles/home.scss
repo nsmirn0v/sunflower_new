@@ -1,0 +1,35 @@
+#home {
+	margin-top: 55px;
+}
+
+@media (max-width: 768px) {
+	#home {
+		margin-top: 0;
+
+		.default .container h1 {
+			line-height: 25px;
+		}
+	}
+
+	.carousel-caption {
+		bottom: -20px;
+
+		h3 {
+			font-size: 15px;
+		}
+
+		p {
+			font-size: 10px;
+		}
+	}
+}
+
+.carousel {
+	.item {
+		.carousel-caption {
+			h3 {
+				color: yellowgreen;
+			}
+		}
+	}
+}

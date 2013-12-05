@@ -1,0 +1,114 @@
+.navbar.navbar-fixed-top {
+	background: rgba(255,255,255, .95);
+	background: white;
+	border: 0;
+	border-bottom: 1px solid #eeeeee;
+	margin-bottom: 0;
+
+	.nav-link {
+		text-align: center;
+		width: 70px;
+		height: 55px;
+		overflow: hidden;
+		-webkit-transition: all .2s ease-in-out;
+		-moz-transition: all .2s ease-in-out;
+		-ie-transition: all .2s ease-in-out;
+		-o-transition: all .2s ease-in-out;
+		transition: all .2s ease-in-out; 
+
+		.sub-link {
+			-webkit-transition: top .2s ease-in-out;
+			-moz-transition: top .2s ease-in-out;
+			-ie-transition: top .2s ease-in-out;
+			-o-transition: top .2s ease-in-out;
+			transition: top .2s ease-in-out; 
+			position: absolute;
+			width: 100%;
+			height: 85px;
+			left: 0;
+			top: 15px;
+			border-bottom: 3px solid lightcoral;
+			// color: white;
+
+			span {
+				display: block;
+				padding-top: 20px
+			}
+		}
+	}
+
+	.nav-link {
+		.sub-link {
+			color: #555;
+		}
+
+		&:hover {
+			.sub-link {
+				color: lightcoral;
+			}
+		}
+	}
+
+	.active {
+		.nav-link {
+			background: whitesmoke;
+			
+			.sub-link {
+				top: -30px;
+				color: lightcoral;
+			}
+		}			
+	}
+}
+
+.navbar.navbar-fixed-bottom {
+	// border-top: 1px solid lightgray;
+	// background: white;
+	.nav-justified {
+		li {
+			display: table-cell;
+			width: 1%;
+			// border-right: 1px solid lightgray;
+
+			a {
+				-webkit-transition: all .2s ease-in-out;
+				-moz-transition: all .2s ease-in-out;
+				-ie-transition: all .2s ease-in-out;
+				-o-transition: all .2s ease-in-out;
+				transition: all .2s ease-in-out; 
+				margin-bottom: 0;
+				// border-bottom: 3px solid white;
+				
+				i {
+					-webkit-transition: color .2s ease-in-out;
+					-moz-transition: color .2s ease-in-out;
+					-ie-transition: color .2s ease-in-out;
+					-o-transition: color .2s ease-in-out;
+					transition: color .2s ease-in-out; 
+					color: #666;
+				}
+			}
+
+			&.active {
+				background: black;
+
+				a {
+					// border-bottom-color: lightcoral;
+
+					i {
+						color: lightcoral;
+					}
+				}
+			}
+
+			&:hover a {
+				background: #222222;
+				color: #888;
+			}
+
+			&.active:hover a {
+				background: black;
+			}
+		}
+	}
+}

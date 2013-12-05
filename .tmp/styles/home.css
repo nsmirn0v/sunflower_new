@@ -1,0 +1,99 @@
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/home\.scss;
+  }
+
+  line {
+    font-family: \000031;
+  }
+}
+
+#home {
+  margin-top: 55px;
+}
+
+@media (max-width: 768px) {
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/home\.scss;
+    }
+
+    line {
+      font-family: \000036;
+    }
+}
+
+  #home {
+    margin-top: 0;
+  }
+
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/home\.scss;
+    }
+
+    line {
+      font-family: \000039;
+    }
+}
+
+  #home .default .container h1 {
+    line-height: 25px;
+  }
+
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/home\.scss;
+    }
+
+    line {
+      font-family: \0000314;
+    }
+}
+
+  .carousel-caption {
+    bottom: -20px;
+  }
+
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/home\.scss;
+    }
+
+    line {
+      font-family: \0000317;
+    }
+}
+
+  .carousel-caption h3 {
+    font-size: 15px;
+  }
+
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/home\.scss;
+    }
+
+    line {
+      font-family: \0000321;
+    }
+}
+
+  .carousel-caption p {
+    font-size: 10px;
+  }
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/home\.scss;
+  }
+
+  line {
+    font-family: \0000330;
+  }
+}
+
+.carousel .item .carousel-caption h3 {
+  color: yellowgreen;
+}
