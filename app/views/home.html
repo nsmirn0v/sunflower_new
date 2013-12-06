@@ -1,0 +1,92 @@
+<div id="home" class="top">
+	<div id="carousel" class="carousel slide hidden-xs" data-ride="carousel">
+
+		<ol class="carousel-indicators">
+			<li data-target="#carousel" data-slide-to="0" class="active"></li>
+			<li data-target="#carousel" data-slide-to="1"></li>
+			<li data-target="#carousel" data-slide-to="2"></li>
+		</ol>
+
+		<div class="carousel-inner">
+			<div ng-repeat="item in carouselItems" ng-class="{ item: true, active: item.active }">
+				<img ng-src="{{ item.url }}">
+				<div class="carousel-caption">
+					<h3>{{ item.h }}</h3>
+					<p>{{ item.p }}</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="carousel" class="carousel slide visible-xs" data-ride="carousel">
+
+		<div class="carousel-inner ">
+			<div ng-repeat="item in carouselItemsMobile" ng-class="{ item: true, active: item.active }">
+				<img ng-src="{{ item.url }}">
+				<div class="carousel-caption">
+					<h3>{{ item.h }}</h3>
+					<p>{{ item.p }}</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="default odd">
+	<div class="container">
+		<h1 class="main">
+			<span>Sunflower</span>
+			<small>
+				is a family based childcare that provides excellent day care for children of age group 2-5 years old
+			</small>
+		</h1>
+	
+		<div class="row">
+			<div class="col-md-4 attend">
+				<div class="media">
+					<i class="fa fa-clock-o fa-2x pull-left"></i>
+					<div class="media-body">
+						<h4 class="media-heading">Attend</h4>
+						<p>We have options of attending full time or part time, as well as attending full week or partially (2-4 days a week)</p>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="col-md-4 learn">
+				<div class="media">
+					<i class="fa fa-pencil fa-2x pull-left"></i>
+					<div class="media-body">
+						<h4 class="media-heading">Learn</h4>
+						<p>Our childcare provides music lessons, as well as many arts and crafts activities</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 play">
+				<div class="media">
+					<i class="fa fa-smile-o fa-2x pull-left"></i>
+					<div class="media-body">
+						<h4 class="media-heading">Play</h4>
+						<p>We also provide great outside activities on a specially organized playground with many option of toys, such as slide, bicycles, kids’ basketball ring, and many more</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="default">
+	<div class="container">
+		<h1>Our Mission</h1>
+		<p>Our main mission is to create a home-like, loving and caring environment for your children, which is very important for the development at the early age.Learning is also a very important focus in Sunflower Family Child Care. Children not only become aware of the world around them, but also learn values and communication skills. Because we try to recreate a home environment in our childcare learning and playing becomes very fun and relaxing for children.</p>
+
+		<p><strong>Natalia Makarova</strong> is an owner of Sunflower Family Child Care and a teacher there as well. She has received her Bachelor degree of Teacher of music in Barnaul, Russia. There she also gained experience of working in kindergarten, later in pre-school, and finally as a teacher of elementary school.  After a year living in California she decided to continue her education and received Certificate of Achievement in Child Development. She also had experience of working as a teacher in pre-school here in California. Natalia takes on her job with a great feeling of responsibility and with unconditional love for children in her heart. She cares for every single child and provides each child with everything based on individual needs of each child. </p>
+	</div>
+</div>
+
+<script type="text/javascript">
+	document.body.scrollTop = document.documentElement.scrollTop = 0;
+	$(".carousel").carousel("cycle");
+</script>
+
+</div>
