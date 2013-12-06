@@ -196,11 +196,11 @@ var pictures = [{
 }];
 
 /* Controllers */
-var app = angular.module('sunflower')
+var app = angular.module('sunflower');
 
 /* Main controller */
 app.controller('MainCtrl', ['$scope', '$routeParams', '$location',
-	function ($scope, $routeParams, $location) {
+	function ($scope, $routeParams) {
 	var result;
 
 	$scope.carouselItems = carouselItems;
@@ -215,12 +215,12 @@ app.controller('MainCtrl', ['$scope', '$routeParams', '$location',
 			i = 0;
 
 		for (; i < length; i++) {
-			if (pictures[i].name == name) {
+			if (pictures[i].name === name) {
 				return {
 					curr: pictures[i],
 					prev: (i - 1 < 0) ? pictures[length - 1] : pictures[i - 1],
 					next: (i + 1 >= length) ? pictures[0] : pictures[i + 1]
-				}
+				};
 			}
 		}
 
@@ -241,7 +241,7 @@ app.controller('NavCtrl', ['$scope', '$location', '$rootScope',
 		$scope.menuItems = menuItems;
 		$scope.show = true;
 
-		$scope.$on('$routeChangeSuccess', function(event, current, previous) {
+		$scope.$on('$routeChangeSuccess', function(event, current) {
 			$rootScope.title = current.$$route.title;
 
 			$scope.menuItems.forEach(function(item) {
@@ -259,6 +259,6 @@ app.controller('NavCtrl', ['$scope', '$location', '$rootScope',
 			});
 
 			$scope.show = !(/gallery\/.+/.test($location.path()));
-			$scope.scalable = $scope.show ? "no" : "yes";
+			$scope.scalable = $scope.show ? 'no' : 'yes';
 		});
 	}]);

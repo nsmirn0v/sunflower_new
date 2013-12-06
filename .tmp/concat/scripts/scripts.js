@@ -270,7 +270,7 @@ app.controller('MainCtrl', [
   '$scope',
   '$routeParams',
   '$location',
-  function ($scope, $routeParams, $location) {
+  function ($scope, $routeParams) {
     var result;
     $scope.carouselItems = carouselItems;
     $scope.carouselItemsMobile = carouselItemsMobile;
@@ -280,7 +280,7 @@ app.controller('MainCtrl', [
     $scope.findPicture = function (name) {
       var pictures = $scope.pictures, length = pictures.length, i = 0;
       for (; i < length; i++) {
-        if (pictures[i].name == name) {
+        if (pictures[i].name === name) {
           return {
             curr: pictures[i],
             prev: i - 1 < 0 ? pictures[length - 1] : pictures[i - 1],
@@ -305,7 +305,7 @@ app.controller('NavCtrl', [
   function ($scope, $location, $rootScope) {
     $scope.menuItems = menuItems;
     $scope.show = true;
-    $scope.$on('$routeChangeSuccess', function (event, current, previous) {
+    $scope.$on('$routeChangeSuccess', function (event, current) {
       $rootScope.title = current.$$route.title;
       $scope.menuItems.forEach(function (item) {
         var regex = new RegExp(item.url), path = $location.path();
