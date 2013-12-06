@@ -236,12 +236,14 @@ app.controller('MainCtrl', ['$scope', '$routeParams', '$location',
 }]);
 
 /* Controller for navbar */
-app.controller('NavCtrl', ['$scope', '$location',
-	function ($scope, $location) {
+app.controller('NavCtrl', ['$scope', '$location', '$rootScope',
+	function ($scope, $location, $rootScope) {
 		$scope.menuItems = menuItems;
 		$scope.show = true;
 
-		$scope.$on('$routeChangeSuccess', function() {
+		$scope.$on('$routeChangeSuccess', function(event, current, previous) {
+			$rootScope.title = current.$$route.title;
+
 			$scope.menuItems.forEach(function(item) {
 				var regex = new RegExp(item.url),
 					path = $location.path();
@@ -257,6 +259,6 @@ app.controller('NavCtrl', ['$scope', '$location',
 			});
 
 			$scope.show = !(/gallery\/.+/.test($location.path()));
-			$scope.scalable = $scope.show;
+			$scope.scalable = $scope.show ? "no" : "yes";
 		});
 	}]);

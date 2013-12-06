@@ -7,21 +7,23 @@ app.config([
   '$routeProvider',
   function ($routeProvider) {
     $routeProvider.when('/', {
+      title: 'Home',
       templateUrl: 'views/home.html',
       controller: 'MainCtrl'
     }).when('/calendar', {
+      title: 'Calendar',
       templateUrl: 'views/calendar.html',
       controller: 'MainCtrl'
-    }).when('/about', {
-      templateUrl: 'views/about.html',
-      controller: 'MainCtrl'
     }).when('/gallery', {
+      title: 'Gallery',
       templateUrl: 'views/gallery.html',
       controller: 'MainCtrl'
     }).when('/gallery/:picture', {
+      title: 'Gallery',
       templateUrl: 'views/picture.html',
       controller: 'MainCtrl'
     }).when('/contact', {
+      title: 'Contact',
       templateUrl: 'views/contact.html',
       controller: 'MainCtrl'
     }).otherwise({ redirectTo: '/' });
@@ -299,10 +301,12 @@ app.controller('MainCtrl', [
 app.controller('NavCtrl', [
   '$scope',
   '$location',
-  function ($scope, $location) {
+  '$rootScope',
+  function ($scope, $location, $rootScope) {
     $scope.menuItems = menuItems;
     $scope.show = true;
-    $scope.$on('$routeChangeSuccess', function () {
+    $scope.$on('$routeChangeSuccess', function (event, current, previous) {
+      $rootScope.title = current.$$route.title;
       $scope.menuItems.forEach(function (item) {
         var regex = new RegExp(item.url), path = $location.path();
         item.isActive = false;
@@ -315,7 +319,7 @@ app.controller('NavCtrl', [
         }
       });
       $scope.show = !/gallery\/.+/.test($location.path());
-      $scope.scalable = $scope.show;
+      $scope.scalable = $scope.show ? 'no' : 'yes';
     });
   }
 ]);
