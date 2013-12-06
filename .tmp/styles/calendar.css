@@ -73,19 +73,25 @@
   color: lightcoral;
 }
 
-/* line 63, ../../app/styles/calendar.scss */
+/* line 62, ../../app/styles/calendar.scss */
+
+.tab-content {
+  color: #666;
+}
+
+/* line 65, ../../app/styles/calendar.scss */
 
 .tab-content #schedule {
   padding-top: 15px;
 }
 
-/* line 66, ../../app/styles/calendar.scss */
+/* line 68, ../../app/styles/calendar.scss */
 
 .tab-content #schedule h4 {
   color: gray;
 }
 
-/* line 71, ../../app/styles/calendar.scss */
+/* line 73, ../../app/styles/calendar.scss */
 
 .tab-content #calendar {
   padding-top: 25px;

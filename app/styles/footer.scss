@@ -1,6 +1,10 @@
 .default.footer {
 	padding-bottom: 25px;
 	background: #eeeeee;
+
+	.address p {
+		text-align: left;
+	}
 }
 
 @media (max-width: 768px) {

@@ -35,12 +35,30 @@ $fa-font-path: "/bower_components/font-awesome/fonts/";
 		span {
 			color: lightcoral;
 		}
+
+		&.main {
+			line-height: 20px;
+			text-align: left;
+
+			small {
+				font-size: 55%;
+			}
+		}
+	}
+
+	p {
+		color: #666;
+		text-align: justify;
 	}
 }
 
 .col-md-4 {
 	padding: 15px;
 	padding-top:20px;
+
+	p {
+		color: #999;
+	}
 
 	&.attend i {
 		color: deepskyblue;
