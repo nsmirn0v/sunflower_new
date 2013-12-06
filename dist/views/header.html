@@ -1,25 +1,33 @@
 <!-- Visible on large screen -->	
-	<nav class="hidden-xs navbar navbar-fixed-top">
-		<!-- <a class="navbar-brand" href="/">Sunflower</a> -->
+<nav class="hidden-xs navbar navbar-fixed-top">
+	<a class="brand" href="/">
+		<img src="images/91c9b650.logo2.png">
+	</a>
 
-		<ul class="nav navbar-nav navbar-right">
-			<li ng-repeat="item in menuItems" ng-class="{ active: item.isActive }">
-				<a class="nav-link" href="#{{ item.url }}">
-					<div class="sub-link">
-						<i class="fa {{ item.icon }} fa-2x"></i>
-						<span>{{ item.name }}</span>
-					</div>			
-				</a>
-			</li>
-		</ul>
-	</nav>
-
-	<nav class="navbar navbar-fixed-bottom navbar-inverse" ng-class="{ 'visible-xs': show }" ng-show="show">
-		<ul class="nav nav-justified">
-			<li ng-repeat="item in menuItems" ng-class="{ active: item.isActive }">
-				<a class="" href="#{{ item.url }}">
+	<ul class="nav navbar-nav navbar-right">
+		<li ng-repeat="item in menuItems" ng-class="{ active: item.isActive }">
+			<a class="nav-link" href="#{{ item.url }}">
+				<div class="sub-link">
 					<i class="fa {{ item.icon }} fa-2x"></i>
-				</a>
-			</li>
-		</ul>
-	</nav>
+					<span>{{ item.name }}</span>
+				</div>			
+			</a>
+		</li>
+	</ul>
+</nav>
+
+<div class="brand-container">
+	<a href="/" class="brand visible-xs">
+		<img src="images/91c9b650.logo2.png">
+	</a>
+</div>
+
+<nav class="navbar navbar-fixed-bottom navbar-inverse" ng-class="{ 'visible-xs': show }" ng-show="show">
+	<ul class="nav nav-justified">
+		<li ng-repeat="item in menuItems" ng-class="{ active: item.isActive }">
+			<a class="" href="#{{ item.url }}">
+				<i class="fa {{ item.icon }} fa-2x"></i>
+			</a>
+		</li>
+	</ul>
+</nav>
