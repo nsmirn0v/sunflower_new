@@ -75,36 +75,96 @@ var morningSchedule = [{
 }];
 
 var afternoonSchedule = [{
-		time: '12:00 PM - 12:40PM',
-		description: 'Lunch'
-	}, {
-		time: '12:40PM - 1:00PM',
-		description: 'Clean up, Preparing for Nap'
-	}, {
-		time: '1:00PM - 3:00PM',
-		description: 'Nap Time'
-	}, {
-		time: '3:00PM - 3:30PM',
-		description: 'Wake up time'
-	}, {
-		time: '3:30PM - 4:00PM',
-		description: 'Snack Time'
-	}, {
-		time: '4:00PM - 4:30PM',
-		description: 'Story time'
-	}, {
-		time: '4:30PM - 5:30PM',
-		description: 'Outside/Inside Free Play'
-	}, {
-		time: '5:30PM - 6:00PM',
-		description: 'Prepare for pick-up'
-	}, {
-		time: '6:00PM',
-		description: 'Childcare closes'
-	}
-];
+	time: '12:00 PM - 12:40PM',
+	description: 'Lunch'
+}, {
+	time: '12:40PM - 1:00PM',
+	description: 'Clean up, Preparing for Nap'
+}, {
+	time: '1:00PM - 3:00PM',
+	description: 'Nap Time'
+}, {
+	time: '3:00PM - 3:30PM',
+	description: 'Wake up time'
+}, {
+	time: '3:30PM - 4:00PM',
+	description: 'Snack Time'
+}, {
+	time: '4:00PM - 4:30PM',
+	description: 'Story time'
+}, {
+	time: '4:30PM - 5:30PM',
+	description: 'Outside/Inside Free Play'
+}, {
+	time: '5:30PM - 6:00PM',
+	description: 'Prepare for pick-up'
+}, {
+	time: '6:00PM',
+	description: 'Childcare closes'
+}];
 
 /* Pictures */
+
+
+
+
+// var pictures = [{
+// 	name: 'p1',
+// 	thumb: 'http://imagizer.imageshack.us/v2/1280x1024q90/833/q8lr.jpg',
+// 	fullsize: 'http://imagizer.imageshack.us/v2/320x240q90/c/833/q8lr.jpg'
+// }, {
+// 	name: 'p2',
+// 	thumb: 'http://imagizer.imageshack.us/v2/1280x1024q90/23/9y4m.jpg',
+// 	fullsize: 'http://imagizer.imageshack.us/v2/320x240q90/c/23/9y4m.jpg'
+// }, {
+// 	name: 'p3',
+// 	thumb: 'http://imagizer.imageshack.us/v2/1280x1024q90/16/r0qr.jpg',
+// 	fullsize: 'http://imagizer.imageshack.us/v2/320x240q90/c/16/r0qr.jpg'
+// }, {
+// 	name: 'p4',
+// 	thumb: 'http://imagizer.imageshack.us/v2/1280x1024q90/266/f2bm.jpg',
+// 	fullsize: 'http://imagizer.imageshack.us/v2/320x240q90/c/266/f2bm.jpg'
+// }, {
+// 	name: 'p5',
+// 	thumb: 'http://imagizer.imageshack.us/v2/1280x1024q90/689/qfab.jpg',
+// 	fullsize: 'http://imagizer.imageshack.us/v2/320x240q90/c/689/qfab.jpg'
+// }, {
+// 	name: 'p6',
+// 	thumb: 'http://imagizer.imageshack.us/v2/1280x1024q90/694/3add.jpg',
+// 	fullsize: 'http://imagizer.imageshack.us/v2/320x240q90/c/694/3add.jpg'
+// }, {
+// 	name: 'p7',
+// 	thumb: 'http://imagizer.imageshack.us/v2/1280x1024q90/41/qbtt.jpg',
+// 	fullsize: 'http://imagizer.imageshack.us/v2/320x240q90/c/41/qbtt.jpg'
+// }, {
+// 	name: 'p8',
+// 	thumb: 'http://imagizer.imageshack.us/v2/1280x1024q90/12/xdkz.jpg',
+// 	fullsize: 'http://imagizer.imageshack.us/v2/320x240q90/c/12/xdkz.jpg'
+// }, {
+// 	name: 'p9',
+// 	thumb: 'http://imagizer.imageshack.us/v2/1280x1024q90/825/pp7d.jpg',
+// 	fullsize: 'http://imagizer.imageshack.us/v2/320x240q90/c/825/pp7d.jpg'
+// }, {
+// 	name: 'p10',
+// 	thumb: 'http://imagizer.imageshack.us/v2/1280x1024q90/585/8cea.jpg',
+// 	fullsize: 'http://imagizer.imageshack.us/v2/320x240q90/c/585/8cea.jpg'
+// }, {
+// 	name: 'p11',
+// 	thumb: 'http://imagizer.imageshack.us/v2/1280x1024q90/541/e4vl.jpg',
+// 	fullsize: 'http://imagizer.imageshack.us/v2/320x240q90/c/541/e4vl.jpg'
+// }, {
+// 	name: 'p12',
+// 	thumb: 'http://imagizer.imageshack.us/v2/1280x1024q90/407/ef0k.jpg',
+// 	fullsize: 'http://imagizer.imageshack.us/v2/320x240q90/c/407/ef0k.jpg'
+// }, {name: 'p13',
+// 	thumb: 'http://imagizer.imageshack.us/v2/1280x1024q90/43/kv56.jpg',
+// 	fullsize: 'http://imagizer.imageshack.us/v2/320x240q90/c/43/kv56.jpg'
+// }, {
+// 	name: 'p14',
+// 	thumb: 'http://imagizer.imageshack.us/v2/1280x1024q90/209/gyy6.jpg',
+// 	fullsize: 'http://imagizer.imageshack.us/v2/320x240q90/c/209/gyy6.jpg'
+// }];
+
 var pictures = [{
 	name: 'p1',
 	fullsize: 'http://imageshack.com/a/img43/8645/kv56.jpg',

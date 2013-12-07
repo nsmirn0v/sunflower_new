@@ -12564,7 +12564,6 @@ td.visible-print {
 .gallery .img-thumbnail,
 .gallery .thumbnail {
   border: 0;
-  padding: 1px;
 }
 
 /* line 11, ../../app/styles/gallery.scss */
