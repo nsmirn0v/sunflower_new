@@ -11,10 +11,10 @@
 }
 
 .navbar.navbar-fixed-top {
-	background: rgba(255,255,255, .95);
 	background: white;
+	background: rgba(255,255,255, .65);
 	border: 0;
-	border-bottom: 1px solid #eeeeee;
+	// border-bottom: 1px solid #eeeeee;
 	margin-bottom: 0;
 
 	.brand img {
@@ -47,7 +47,6 @@
 			left: 0;
 			top: 15px;
 			border-bottom: 3px solid lightcoral;
-			// color: white;
 
 			span {
 				display: block;
@@ -62,6 +61,7 @@
 		}
 
 		&:hover {
+			background: transparent;
 			.sub-link {
 				color: lightcoral;
 			}
@@ -70,7 +70,8 @@
 
 	.active {
 		.nav-link {
-			background: whitesmoke;
+			// background: whitesmoke;
+			background: transparent;
 			
 			.sub-link {
 				top: -30px;

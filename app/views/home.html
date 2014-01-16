@@ -1,19 +1,19 @@
 <div id="home" class="top">
 	<div id="carousel" class="carousel slide hidden-xs" data-ride="carousel">
 
-		<ol class="carousel-indicators">
+		<!-- <ol class="carousel-indicators">
 			<li data-target="#carousel" data-slide-to="0" class="active"></li>
 			<li data-target="#carousel" data-slide-to="1"></li>
 			<li data-target="#carousel" data-slide-to="2"></li>
-		</ol>
+		</ol> -->
 
 		<div class="carousel-inner">
 			<div ng-repeat="item in carouselItems" ng-class="{ item: true, active: item.active }">
 				<img ng-src="{{ item.url }}">
-				<div class="carousel-caption">
+				<!-- <div class="carousel-caption">
 					<h3>{{ item.h }}</h3>
 					<p>{{ item.p }}</p>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</div>
@@ -23,13 +23,16 @@
 		<div class="carousel-inner ">
 			<div ng-repeat="item in carouselItemsMobile" ng-class="{ item: true, active: item.active }">
 				<img ng-src="{{ item.url }}">
-				<div class="carousel-caption">
+				<!-- <div class="carousel-caption">
 					<h3>{{ item.h }}</h3>
 					<p>{{ item.p }}</p>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</div>
+
+	<!-- <img ng-src="{{ mainPicture.desktopUrl }}" class="hidden-xs">
+	<img ng-src="{{ mainPicture.mobileUrl }}" class="visible-xs"> -->
 </div>
 
 <div class="default odd">
@@ -77,13 +80,56 @@
 
 <div class="default">
 	<div class="container">
-		<h1>Our Mission</h1>
-		<p>Our main mission is to create a home-like, loving and caring environment for your children, which is essential for their development at the early age. Learning is also a very important focus in Sunflower Family Child Care.</p><p>Children not only become aware of the world around them, but also learn values and communication skills. Because we try to recreate a home environment in our childcare learning and playing becomes very fun and relaxing for children.</p>
+		<div class="row mission">
+			<div class="col-md-7">
+				<h1>Our Mission</h1>
+				<p>Our main mission is to create a home-like, loving and caring environment for your children, which is essential for their development at the early age. Learning is also a very important focus in Sunflower Family Child Care.</p>
 
-		<p><strong>Natalia Makarova</strong> is an owner of Sunflower Family Child Care and a teacher there as well. She has received her Bachelor degree of Teacher of music in Barnaul, Russia. There she also gained experience of working in kindergarten, later in pre-school, and finally as a teacher of elementary school.</p>
-		<p style="margin-bottom:25px">After a year living in California she decided to continue her education and received Certificate of Achievement in Child Development. She also had experience of working as a teacher in pre-school here in California. Natalia takes on her job with a great feeling of responsibility and with unconditional love for children in her heart. She cares for every single child and provides each child with everything based on individual needs of each child. </p>
+				<p>Children not only become aware of the world around them, but also learn values and communication skills. Because we try to recreate a home environment in our childcare learning and playing becomes very fun and relaxing for children.</p>
+			</div>
+			<div class="col-md-5">
+				<div class="thumbnail">
+					<img ng-src="{{ aboutPics.mission }}">
+				</div>
+			</div>
+		</div>
+
+		<div class="row owner">
+			<div class="col-md-5 hidden-xs">
+				<div class="thumbnail">
+					<img ng-src="{{ aboutPics.owner }}">
+				</div>
+			</div>
+			<div class="col-md-7">
+				<p><strong>Natalia Makarova</strong> is an owner of Sunflower Family Child Care and a teacher there as well. She has received her Bachelor degree of Teacher of music in Barnaul, Russia. There she also gained experience of working in kindergarten, later in pre-school, and finally as a teacher of elementary school.</p>
+				
+				<p style="margin-bottom:25px">After a year living in California she decided to continue her education and received Certificate of Achievement in Child Development. She also had experience of working as a teacher in pre-school here in California. Natalia takes on her job with a great feeling of responsibility and with unconditional love for children in her heart. She cares for every single child and provides each child with everything based on individual needs of each child. </p>
+			</div>
+			<div class="col-md-5 visible-xs">
+				<div class="thumbnail">
+					<img ng-src="{{ aboutPictures.learn.thumb }}">
+				</div>
+			</div>
+		</div>
 	</div>
 </div>
+
+<div class="default">
+	<div class="container">
+		<div class="row">
+		  <div class="col-md-4" ng-repeat="item in aboutItems">
+		    <div class="thumbnail">
+		      <img ng-src="{{ item.thumb }}" class="img-circle">
+		      <div class="caption">
+		        <h3>{{ item.title }}</h3>
+		        <p>{{ item.text }}</p>
+		      </div>
+		    </div>
+		  </div>
+		</div>
+	</div>
+</div>
+
 
 <script type="text/javascript">
 	document.body.scrollTop = document.documentElement.scrollTop = 0;

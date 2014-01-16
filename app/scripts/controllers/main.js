@@ -11,7 +11,7 @@ var menuItems = [{
 	url: '/calendar'
 }, {
 	name: 'Gallery',
-	icon: 'fa-picture-o',
+	icon: 'fa-camera',
 	url: '/gallery'
 }, {
 	name: 'Contact',
@@ -19,13 +19,33 @@ var menuItems = [{
 	url: '/contact'
 }];
 
+var aboutPics = {
+	mission: 'http://imagizer.imageshack.us/v2/800x600q90/20/bxj4.jpg',
+	owner: 'http://imagizer.imageshack.us/v2/800x600q90/14/2djo.jpg' 
+};
+
+var aboutItems = [{
+		thumb: 'http://imagizer.imageshack.us/v2/800x600q90/20/bxj4.jpg',
+		title: "Learn/Play Room",
+		text: "Blah blah blah"
+	},{
+		thumb: 'http://imagizer.imageshack.us/v2/800x600q90/14/2djo.jpg',
+		title: "Nap Room",
+		text: "Blah blah blah"
+	},{
+		thumb: 'http://imagizer.imageshack.us/v2/800x600q90/560/v9iy.jpg',
+		title: "Play Room",
+		text: "Blah blah blah"
+	}
+];
+
 /* Items for carousel */
 var carouselItems = [{
 	url: 'http://imageshack.com/a/img405/1989/z26i.jpg',
 	h: 'Sunflower Child Care',
 	p: 'Just what your child needs to learn through playing',
 	active: true
-}, {
+}/*, {
 	url: 'http://imageshack.com/a/img6/4425/wnnk.jpg',
 	h: 'Friendly Enviroment',
 	p: 'Let your child spend a day in a playful and friendly enviroment'
@@ -33,15 +53,14 @@ var carouselItems = [{
 	url: 'http://imageshack.com/a/img841/2199/e0y5.jpg',
 	h: 'Making new friends',
 	p: 'Great way to get used to communicating with other kids around and make friends'
-}];
+}*/];
 
 var carouselItemsMobile = [{
 	url: 'http://imagizer.imageshack.us/v2/1024x768q90/405/z26i.jpg',
-	url1: 'http://imagizer.imageshack.us/v2/800x600q90/405/z26i.jpg',
 	h: 'Sunflower Child Care',
 	p: 'Just what your child needs to learn through playing',
 	active: true
-}, {
+}/*, {
 	// url: 'http://imagizer.imageshack.us/v2/1024x768q90/6/wnnk.jpg',
 	url: 'http://imagizer.imageshack.us/v2/800x600q90/6/wnnk.jpg',
 	h: 'Friendly Enviroment',
@@ -51,7 +70,7 @@ var carouselItemsMobile = [{
 	url: 'http://imagizer.imageshack.us/v2/800x600q90/841/e0y5.jpg',
 	h: 'Making new friends',
 	p: 'Great way to get used to communicating with other kids around and make friends'
-}];
+}*/];
 
 /* Activities for daily schedule */
 var morningSchedule = [{
@@ -268,6 +287,8 @@ app.controller('MainCtrl', ['$scope', '$routeParams', '$location',
 	$scope.morningSchedule = morningSchedule;
 	$scope.afternoonSchedule = afternoonSchedule;
 	$scope.pictures = pictures;
+	$scope.aboutPics = aboutPics;
+	$scope.aboutItems = aboutItems;
 
 	$scope.findPicture = function (name) {
 		var pictures = $scope.pictures,
