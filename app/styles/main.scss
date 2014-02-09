@@ -1,18 +1,20 @@
 // $icon-font-path: "/bower_components/sass-bootstrap/fonts/";
 $fa-font-path: "/bower_components/font-awesome/fonts/";
 
-@import 'sass-bootstrap/lib/bootstrap';
-@import 'font-awesome/scss/font-awesome';
-@import 'header';
-@import 'home';
-@import 'calendar';
-@import 'footer';
-@import 'gallery';
-@import 'animation';
+@import "sass-bootstrap/lib/bootstrap";
+@import "font-awesome/scss/font-awesome";
+@import "header";
+@import "home";
+@import "calendar";
+@import "footer";
+@import "gallery";
+@import "animation";
 
 /* Content */
 .default {
 	border-bottom: 1px solid #eeeeee;
+	padding-top: 30px;
+	padding-bottom: 30px;
 
 	&.odd {
 		background: whitesmoke
@@ -51,12 +53,29 @@ $fa-font-path: "/bower_components/font-awesome/fonts/";
 	.mission,
 	.owner {
 		p {
-			font-size: 20px;
-			font-weight: 100;
+			font-size: 16px;
+			font-weight: 200;
 		}
 
 		.thumbnail {
 			border: none;
+		}
+	}
+
+	// .mission {
+	// 	margin-top: 40px;
+	// }
+
+	.about-items {
+		// margin-top: 35px;
+
+		.thumbnail {
+			border: none;
+		}
+
+		h3 {
+			text-align: center;
+			color: gray;
 		}
 	}
 }

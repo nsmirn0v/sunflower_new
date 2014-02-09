@@ -81,13 +81,21 @@
 <div class="default">
 	<div class="container">
 		<div class="row mission">
+			
+			<div class="col-md-5 visible-sm visible-xs">
+				<div class="thumbnail">
+					<img ng-src="{{ aboutPics.mission }}">
+				</div>
+			</div>
+
 			<div class="col-md-7">
 				<h1>Our Mission</h1>
 				<p>Our main mission is to create a home-like, loving and caring environment for your children, which is essential for their development at the early age. Learning is also a very important focus in Sunflower Family Child Care.</p>
 
 				<p>Children not only become aware of the world around them, but also learn values and communication skills. Because we try to recreate a home environment in our childcare learning and playing becomes very fun and relaxing for children.</p>
 			</div>
-			<div class="col-md-5">
+			
+			<div class="col-md-5 hidden-sm hidden-xs">
 				<div class="thumbnail">
 					<img ng-src="{{ aboutPics.mission }}">
 				</div>
@@ -95,7 +103,7 @@
 		</div>
 
 		<div class="row owner">
-			<div class="col-md-5 hidden-xs">
+			<div class="col-md-5">
 				<div class="thumbnail">
 					<img ng-src="{{ aboutPics.owner }}">
 				</div>
@@ -116,13 +124,12 @@
 
 <div class="default">
 	<div class="container">
-		<div class="row">
+		<div class="row about-items">
 		  <div class="col-md-4" ng-repeat="item in aboutItems">
 		    <div class="thumbnail">
-		      <img ng-src="{{ item.thumb }}" class="img-circle">
+		      <img ng-src="{{ item.thumb }}">
 		      <div class="caption">
 		        <h3>{{ item.title }}</h3>
-		        <p>{{ item.text }}</p>
 		      </div>
 		    </div>
 		  </div>
