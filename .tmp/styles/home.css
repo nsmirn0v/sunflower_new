@@ -1,42 +1,98 @@
-/* line 1, ../../app/styles/home.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/home\.scss;
+  }
+
+  line {
+    font-family: \000031;
+  }
+}
 
 #home {
   margin-top: -15px;
 }
 
 @media (max-width: 768px) {
-  /* line 6, ../../app/styles/home.scss */
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/home\.scss;
+    }
+
+    line {
+      font-family: \000036;
+    }
+}
 
   #home {
     margin-top: 0;
   }
 
-  /* line 9, ../../app/styles/home.scss */
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/home\.scss;
+    }
+
+    line {
+      font-family: \000039;
+    }
+}
 
   #home .default .container h1 {
     line-height: 25px;
   }
 
-  /* line 14, ../../app/styles/home.scss */
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/home\.scss;
+    }
+
+    line {
+      font-family: \0000314;
+    }
+}
 
   .carousel-caption {
     bottom: -20px;
   }
 
-  /* line 17, ../../app/styles/home.scss */
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/home\.scss;
+    }
+
+    line {
+      font-family: \0000317;
+    }
+}
 
   .carousel-caption h3 {
     font-size: 15px;
   }
 
-  /* line 21, ../../app/styles/home.scss */
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/home\.scss;
+    }
+
+    line {
+      font-family: \0000321;
+    }
+}
 
   .carousel-caption p {
     font-size: 10px;
   }
 }
 
-/* line 30, ../../app/styles/home.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/nikolay\/code\/nodejs\/sunflower\/app\/styles\/home\.scss;
+  }
+
+  line {
+    font-family: \0000330;
+  }
+}
 
 .carousel .item .carousel-caption h3 {
   color: yellowgreen;
