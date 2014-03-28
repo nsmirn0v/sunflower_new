@@ -12888,46 +12888,47 @@ td.visible-print {
 .default .about-items h3 {
   text-align: center;
   color: gray;
+  font-weight: 200;
 }
 
-/* line 83, ../../app/styles/main.scss */
+/* line 84, ../../app/styles/main.scss */
 
 .col-md-4 {
   padding: 15px;
   padding-top: 20px;
 }
 
-/* line 87, ../../app/styles/main.scss */
+/* line 88, ../../app/styles/main.scss */
 
 .col-md-4 p {
   color: #999;
 }
 
-/* line 91, ../../app/styles/main.scss */
+/* line 92, ../../app/styles/main.scss */
 
 .col-md-4.attend i {
   color: deepskyblue;
 }
 
-/* line 95, ../../app/styles/main.scss */
+/* line 96, ../../app/styles/main.scss */
 
 .col-md-4.learn i {
   color: blueviolet;
 }
 
-/* line 99, ../../app/styles/main.scss */
+/* line 100, ../../app/styles/main.scss */
 
 .col-md-4.play i {
   color: yellowgreen;
 }
 
-/* line 103, ../../app/styles/main.scss */
+/* line 104, ../../app/styles/main.scss */
 
 .col-md-4 h4 {
   color: gray;
 }
 
-/* line 110, ../../app/styles/main.scss */
+/* line 111, ../../app/styles/main.scss */
 
 .col-md-4.address i,
 .col-md-4.phone i,
