@@ -1,11 +1,27 @@
-/* line 1, ../../app/styles/header.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/ekaterinam\/code\/sunflower_new\/app\/styles\/header\.scss;
+  }
+
+  line {
+    font-family: \000031;
+  }
+}
 
 .brand-container {
   text-align: center;
   margin-bottom: 15px;
 }
 
-/* line 5, ../../app/styles/header.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/ekaterinam\/code\/sunflower_new\/app\/styles\/header\.scss;
+  }
+
+  line {
+    font-family: \000035;
+  }
+}
 
 .brand-container img {
   width: auto;
@@ -14,7 +30,15 @@
   margin-left: 7px;
 }
 
-/* line 13, ../../app/styles/header.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/ekaterinam\/code\/sunflower_new\/app\/styles\/header\.scss;
+  }
+
+  line {
+    font-family: \0000313;
+  }
+}
 
 .navbar.navbar-fixed-top {
   background: white;
@@ -23,7 +47,15 @@
   margin-bottom: 0;
 }
 
-/* line 20, ../../app/styles/header.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/ekaterinam\/code\/sunflower_new\/app\/styles\/header\.scss;
+  }
+
+  line {
+    font-family: \0000320;
+  }
+}
 
 .navbar.navbar-fixed-top .brand img {
   width: auto;
@@ -32,7 +64,15 @@
   margin-left: 7px;
 }
 
-/* line 27, ../../app/styles/header.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/ekaterinam\/code\/sunflower_new\/app\/styles\/header\.scss;
+  }
+
+  line {
+    font-family: \0000327;
+  }
+}
 
 .navbar.navbar-fixed-top .nav-link {
   text-align: center;
@@ -44,7 +84,15 @@
   transition: all .2s ease-in-out;
 }
 
-/* line 38, ../../app/styles/header.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/ekaterinam\/code\/sunflower_new\/app\/styles\/header\.scss;
+  }
+
+  line {
+    font-family: \0000338;
+  }
+}
 
 .navbar.navbar-fixed-top .nav-link .sub-link {
   -webkit-transition: top .2s ease-in-out;
@@ -58,52 +106,116 @@
   border-bottom: 3px solid lightcoral;
 }
 
-/* line 51, ../../app/styles/header.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/ekaterinam\/code\/sunflower_new\/app\/styles\/header\.scss;
+  }
+
+  line {
+    font-family: \0000351;
+  }
+}
 
 .navbar.navbar-fixed-top .nav-link .sub-link span {
   display: block;
   padding-top: 20px;
 }
 
-/* line 59, ../../app/styles/header.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/ekaterinam\/code\/sunflower_new\/app\/styles\/header\.scss;
+  }
+
+  line {
+    font-family: \0000359;
+  }
+}
 
 .navbar.navbar-fixed-top .nav-link .sub-link {
   color: #555;
 }
 
-/* line 63, ../../app/styles/header.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/ekaterinam\/code\/sunflower_new\/app\/styles\/header\.scss;
+  }
+
+  line {
+    font-family: \0000363;
+  }
+}
 
 .navbar.navbar-fixed-top .nav-link:hover {
   background: transparent;
 }
 
-/* line 65, ../../app/styles/header.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/ekaterinam\/code\/sunflower_new\/app\/styles\/header\.scss;
+  }
+
+  line {
+    font-family: \0000365;
+  }
+}
 
 .navbar.navbar-fixed-top .nav-link:hover .sub-link {
   color: lightcoral;
 }
 
-/* line 72, ../../app/styles/header.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/ekaterinam\/code\/sunflower_new\/app\/styles\/header\.scss;
+  }
+
+  line {
+    font-family: \0000372;
+  }
+}
 
 .navbar.navbar-fixed-top .active .nav-link {
   background: transparent;
 }
 
-/* line 76, ../../app/styles/header.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/ekaterinam\/code\/sunflower_new\/app\/styles\/header\.scss;
+  }
+
+  line {
+    font-family: \0000376;
+  }
+}
 
 .navbar.navbar-fixed-top .active .nav-link .sub-link {
   top: -30px;
   color: lightcoral;
 }
 
-/* line 88, ../../app/styles/header.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/ekaterinam\/code\/sunflower_new\/app\/styles\/header\.scss;
+  }
+
+  line {
+    font-family: \0000388;
+  }
+}
 
 .navbar.navbar-fixed-bottom .nav-justified li {
   display: table-cell;
   width: 1%;
 }
 
-/* line 93, ../../app/styles/header.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/ekaterinam\/code\/sunflower_new\/app\/styles\/header\.scss;
+  }
+
+  line {
+    font-family: \0000393;
+  }
+}
 
 .navbar.navbar-fixed-bottom .nav-justified li a {
   -webkit-transition: all .2s ease-in-out;
@@ -112,7 +224,15 @@
   margin-bottom: 0;
 }
 
-/* line 102, ../../app/styles/header.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/ekaterinam\/code\/sunflower_new\/app\/styles\/header\.scss;
+  }
+
+  line {
+    font-family: \00003102;
+  }
+}
 
 .navbar.navbar-fixed-bottom .nav-justified li a i {
   -webkit-transition: color .2s ease-in-out;
@@ -121,26 +241,58 @@
   color: #666;
 }
 
-/* line 112, ../../app/styles/header.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/ekaterinam\/code\/sunflower_new\/app\/styles\/header\.scss;
+  }
+
+  line {
+    font-family: \00003112;
+  }
+}
 
 .navbar.navbar-fixed-bottom .nav-justified li.active {
   background: black;
 }
 
-/* line 118, ../../app/styles/header.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/ekaterinam\/code\/sunflower_new\/app\/styles\/header\.scss;
+  }
+
+  line {
+    font-family: \00003118;
+  }
+}
 
 .navbar.navbar-fixed-bottom .nav-justified li.active a i {
   color: lightcoral;
 }
 
-/* line 124, ../../app/styles/header.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/ekaterinam\/code\/sunflower_new\/app\/styles\/header\.scss;
+  }
+
+  line {
+    font-family: \00003124;
+  }
+}
 
 .navbar.navbar-fixed-bottom .nav-justified li:hover a {
   background: #222222;
   color: #888;
 }
 
-/* line 129, ../../app/styles/header.scss */
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/ekaterinam\/code\/sunflower_new\/app\/styles\/header\.scss;
+  }
+
+  line {
+    font-family: \00003129;
+  }
+}
 
 .navbar.navbar-fixed-bottom .nav-justified li.active:hover a {
   background: black;

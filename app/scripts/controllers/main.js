@@ -16,20 +16,20 @@ var menuItems = [{
 }];
 
 var aboutPics = {
-	mission: 'http://imagizer.imageshack.us/v2/800x600q90/20/bxj4.jpg',
-	owner: 'http://imagizer.imageshack.us/v2/1024x768q90/822/stdl.jpg' 
+	mission: 'http://imageshack.com/a/img921/4271/KKN28c.jpg',
+	owner: 'http://imageshack.com/a/img923/6964/c0SpyJ.jpg' 
 };
 
 var aboutItems = [{
-		thumb: 'http://imagizer.imageshack.us/v2/800x600q90/560/v9iy.jpg',
+		thumb: 'http://imagizer.imageshack.us/v2/640x480q90/921/m6XAad.jpg',
 		title: "Learn/Play Room",
 		text: "Blah blah blah"
 	},{
-		thumb: 'http://imagizer.imageshack.us/v2/800x600q90/14/2djo.jpg',
+		thumb: 'http://imagizer.imageshack.us/v2/640x480q90/922/MFGSFt.jpg',
 		title: "Nap Room",
 		text: "Blah blah blah"
 	},{
-		thumb: 'http://imagizer.imageshack.us/v2/1024x768q90/829/b7bw.jpg',
+		thumb: 'http://imagizer.imageshack.us/v2/640x480q90/921/i4R4GB.jpg',
 		title: "Play Ground",
 		text: "Blah blah blah"
 	}
@@ -37,7 +37,7 @@ var aboutItems = [{
 
 /* Items for carousel */
 var carouselItems = [{
-	url: 'http://imageshack.com/a/img405/1989/z26i.jpg',
+	url: 'http://imageshack.com/a/img924/360/lCrKns.jpg',
 	h: 'Sunflower Child Care',
 	p: 'Just what your child needs to learn through playing',
 	active: true
@@ -118,132 +118,64 @@ var afternoonSchedule = [{
 	description: 'Childcare closes'
 }];
 
-/* Pictures */
-var pictures = [{
-		name: 'p1',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/822/stdl.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/822/stdl.jpg'
-	}, {
-		name: 'p2',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/829/b7bw.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/829/b7bw.jpg'
-	}, {
-		name: 'p3',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/14/2djo.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/14/2djo.jpg'
-	}, {
-		name: 'p4',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/20/bxj4.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/20/bxj4.jpg'
-	}, {
-		name: 'p5',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/560/v9iy.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/560/v9iy.jpg'
-	}, {
-		name: 'p6',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/833/q8lr.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/833/q8lr.jpg'
-	}, {
-		name: 'p7',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/23/9y4m.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/23/9y4m.jpg'
-	}, {
-		name: 'p8',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/16/r0qr.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/16/r0qr.jpg'
-	}, {
-		name: 'p9',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/266/f2bm.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/266/f2bm.jpg'
-	}, {
-		name: 'p10',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/689/qfab.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/689/qfab.jpg'
-	}, {
-		name: 'p11',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/694/3add.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/694/3add.jpg'
-	}, {
-		name: 'p12',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/41/qbtt.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/41/qbtt.jpg'
-	},/* {
-		name: 'p13',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/12/xdkz.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/12/xdkz.jpg'
-	},*/ {
-		name: 'p14',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/825/pp7d.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/825/pp7d.jpg'
-	}, /*{
-		name: 'p15',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/541/e4vl.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/541/e4vl.jpg'
-	},*/ {
-		name: 'p16',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/407/ef0k.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/407/ef0k.jpg'
-	}, {
-		name: 'p17',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/585/8cea.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/585/8cea.jpg'
-	}, /*{
-		name: 'p18',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/841/e0y5.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/841/e0y5.jpg'
-	}, {
-		name: 'p19',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/405/z26i.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/405/z26i.jpg'
-	},*/ {
-		name: 'p20',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/43/kv56.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/43/kv56.jpg'
-	}, {
-		name: 'p21',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/209/gyy6.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/209/gyy6.jpg'
-	}/*, {
-		name: 'p22',
-		fullsize: 'http://imagizer.imageshack.us/v2/1024x768q90/6/wnnk.jpg',
-		thumb: 'http://imagizer.imageshack.us/v2/320x240q90/6/wnnk.jpg'
-	}*/];
+var _thumbs = [
+	'http://imagizer.imageshack.us/v2/280x200q90/921/KKN28c.jpg',
+	'http://imagizer.imageshack.us/v2/280x200q90/922/MFGSFt.jpg',
+	'http://imagizer.imageshack.us/v2/280x200q90/921/m6XAad.jpg',
+	'http://imagizer.imageshack.us/v2/280x200q90/921/UmOAot.jpg',
+	'http://imagizer.imageshack.us/v2/280x200q90/921/i4R4GB.jpg',
+	'http://imagizer.imageshack.us/v2/280x200q90/922/foHZn7.jpg',
+	'http://imagizer.imageshack.us/v2/280x200q90/921/S1PcHW.jpg',
+	'http://imagizer.imageshack.us/v2/280x200q90/922/pS984i.jpg',
+	'http://imagizer.imageshack.us/v2/280x200q90/922/aOnyyR.jpg',
+	'http://imagizer.imageshack.us/v2/280x200q90/923/ZxD6Pr.jpg',
+	'http://imagizer.imageshack.us/v2/280x200q90/922/4pbsrd.jpg',
+	'http://imagizer.imageshack.us/v2/280x200q90/921/NLF4wL.jpg',
+	'http://imagizer.imageshack.us/v2/280x200q90/924/jErclA.jpg',
+	'http://imagizer.imageshack.us/v2/280x200q90/923/n9ch9A.jpg',
+	'http://imagizer.imageshack.us/v2/280x200q90/923/KFLyLv.jpg',
+	'http://imagizer.imageshack.us/v2/280x200q90/924/uYmSvf.jpg',
+	'http://imagizer.imageshack.us/v2/280x200q90/922/bcMkm2.jpg',
+	'http://imagizer.imageshack.us/v2/280x200q90/921/uG2OeC.jpg',
+	'http://imagizer.imageshack.us/v2/280x200q90/922/9H3wRL.jpg',
+	'http://imagizer.imageshack.us/v2/280x200q90/921/CjjXRQ.jpg'
+];
 
+var _fullSizes = [
+	'http://imagizer.imageshack.us/v2/1024x768q90/921/KKN28c.jpg',
+	'http://imagizer.imageshack.us/v2/1024x768q90/922/MFGSFt.jpg',
+	'http://imagizer.imageshack.us/v2/1024x768q90/921/m6XAad.jpg',
+	'http://imagizer.imageshack.us/v2/1024x768q90/921/UmOAot.jpg',
+	'http://imagizer.imageshack.us/v2/1024x768q90/921/i4R4GB.jpg',
+	'http://imagizer.imageshack.us/v2/1024x768q90/922/foHZn7.jpg',
+	'http://imagizer.imageshack.us/v2/1024x768q90/921/S1PcHW.jpg',
+	'http://imagizer.imageshack.us/v2/1024x768q90/922/pS984i.jpg',
+	'http://imagizer.imageshack.us/v2/1024x768q90/922/aOnyyR.jpg',
+	'http://imagizer.imageshack.us/v2/1024x768q90/923/ZxD6Pr.jpg',
+	'http://imagizer.imageshack.us/v2/1024x768q90/922/4pbsrd.jpg',
+	'http://imagizer.imageshack.us/v2/1024x768q90/921/NLF4wL.jpg',
+	'http://imagizer.imageshack.us/v2/1024x768q90/924/jErclA.jpg',
+	'http://imagizer.imageshack.us/v2/1024x768q90/923/n9ch9A.jpg',
+	'http://imagizer.imageshack.us/v2/1024x768q90/923/KFLyLv.jpg',
+	'http://imagizer.imageshack.us/v2/1024x768q90/924/uYmSvf.jpg',
+	'http://imagizer.imageshack.us/v2/1024x768q90/922/bcMkm2.jpg',
+	'http://imagizer.imageshack.us/v2/1024x768q90/921/uG2OeC.jpg',
+	'http://imagizer.imageshack.us/v2/1024x768q90/922/9H3wRL.jpg',
+	'http://imagizer.imageshack.us/v2/1024x768q90/921/CjjXRQ.jpg'
+]
 
+var pictures = _thumbs.map(function (thumb, i) {
+	return {
+		name: 'p' + (i + 1),
+		thumb: thumb,
+		fullsize: _fullSizes[i],
+	}
+});
 
-/*var pictures = [{
-	name: 'p1',
-	fullsize: 'http://imageshack.com/a/img43/8645/kv56.jpg',
-	thumb: 'http://imagizer.imageshack.us/v2/320x240q90/c/43/kv56.jpg'
-},	{
-	name: 'p2',
-	fullsize: 'http://imageshack.com/a/img209/1721/gyy6.jpg',
-	thumb: 'http://imagizer.imageshack.us/v2/320x240q90/c/209/gyy6.jpg'
-},	{
-	name: 'p3',
-	fullsize: 'http://imageshack.com/a/img585/4802/8cea.jpg',
-	thumb: 'http://imagizer.imageshack.us/v2/320x240q90/c/585/8cea.jpg'
-},	{
-	name: 'p4',
-	fullsize: 'http://imageshack.com/a/img407/1734/ef0k.jpg',
-	thumb: 'http://imagizer.imageshack.us/v2/320x240q90/c/407/ef0k.jpg'
-},	{
-	name: 'p5',
-	fullsize: 'http://imageshack.com/a/img825/1971/pp7d.jpg',
-	thumb: 'http://imagizer.imageshack.us/v2/320x240q90/c/825/pp7d.jpg'
-},	{
-	name: 'p6',
-	fullsize: 'http://imageshack.com/a/img692/9776/awkh.jpg',
-	thumb: 'http://imagizer.imageshack.us/v2/320x240q90/c/692/awkh.jpg'
-},	{
-	name: 'p7',
-	fullsize: 'http://imageshack.com/a/img41/9346/qbtt.jpg',
-	thumb: 'http://imagizer.imageshack.us/v2/320x240q90/c/41/qbtt.jpg'
-},	{
-	name: 'p8',
-	fullsize: 'http://imageshack.com/a/img689/5892/qfab.jpg',
-	thumb: 'http://imagizer.imageshack.us/v2/320x240q90/c/689/qfab.jpg'
-}];*/
+_thumbs.forEach(function(thumbUrl, i) {
+	pictures[i].thumb = thumbUrl;
+});
+
 
 /* Controllers */
 var app = angular.module('sunflower');
