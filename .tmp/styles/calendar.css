@@ -1,29 +1,13 @@
 /* Styles for calendar */
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/calendar\.scss;
-  }
-
-  line {
-    font-family: \000032;
-  }
-}
+/* line 2, ../../app/styles/calendar.scss */
 
 #calendar-section {
   margin-top: 75px;
 }
 
 @media (max-width: 768px) {
-@media -sass-debug-info {
-    filename {
-      font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/calendar\.scss;
-    }
-
-    line {
-      font-family: \000037;
-    }
-}
+  /* line 7, ../../app/styles/calendar.scss */
 
   #calendar-section {
     margin-top: 15px;
@@ -31,15 +15,7 @@
 }
 
 @media (min-width: 320px) {
-@media -sass-debug-info {
-    filename {
-      font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/calendar\.scss;
-    }
-
-    line {
-      font-family: \0000313;
-    }
-}
+  /* line 13, ../../app/styles/calendar.scss */
 
   #calendar iframe {
     width: 290px;
@@ -48,15 +24,7 @@
 }
 
 @media (min-width: 768px) {
-@media -sass-debug-info {
-    filename {
-      font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/calendar\.scss;
-    }
-
-    line {
-      font-family: \0000320;
-    }
-}
+  /* line 20, ../../app/styles/calendar.scss */
 
   #calendar iframe {
     width: 720px;
@@ -65,15 +33,7 @@
 }
 
 @media (min-width: 992px) {
-@media -sass-debug-info {
-    filename {
-      font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/calendar\.scss;
-    }
-
-    line {
-      font-family: \0000327;
-    }
-}
+  /* line 27, ../../app/styles/calendar.scss */
 
   #calendar iframe {
     width: 940px;
@@ -82,15 +42,7 @@
 }
 
 @media (min-width: 1200px) {
-@media -sass-debug-info {
-    filename {
-      font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/calendar\.scss;
-    }
-
-    line {
-      font-family: \0000335;
-    }
-}
+  /* line 35, ../../app/styles/calendar.scss */
 
   #calendar iframe {
     width: 1140px;
@@ -98,29 +50,13 @@
   }
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/calendar\.scss;
-  }
-
-  line {
-    font-family: \0000343;
-  }
-}
+/* line 43, ../../app/styles/calendar.scss */
 
 .nav-pills li a {
   color: #555;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/calendar\.scss;
-  }
-
-  line {
-    font-family: \0000347;
-  }
-}
+/* line 47, ../../app/styles/calendar.scss */
 
 .nav-pills li a:hover,
 .nav-pills li a:focus {
@@ -128,15 +64,7 @@
   color: #555;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/calendar\.scss;
-  }
-
-  line {
-    font-family: \0000355;
-  }
-}
+/* line 55, ../../app/styles/calendar.scss */
 
 .nav-pills li.active a,
 .nav-pills li.active > a:hover,
@@ -145,57 +73,25 @@
   color: lightcoral;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/calendar\.scss;
-  }
-
-  line {
-    font-family: \0000362;
-  }
-}
+/* line 62, ../../app/styles/calendar.scss */
 
 .tab-content {
   color: #666;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/calendar\.scss;
-  }
-
-  line {
-    font-family: \0000365;
-  }
-}
+/* line 65, ../../app/styles/calendar.scss */
 
 .tab-content #schedule {
   padding-top: 15px;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/calendar\.scss;
-  }
-
-  line {
-    font-family: \0000368;
-  }
-}
+/* line 68, ../../app/styles/calendar.scss */
 
 .tab-content #schedule h4 {
   color: gray;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/calendar\.scss;
-  }
-
-  line {
-    font-family: \0000373;
-  }
-}
+/* line 73, ../../app/styles/calendar.scss */
 
 .tab-content #calendar {
   padding-top: 25px;

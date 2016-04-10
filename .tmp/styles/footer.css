@@ -1,42 +1,18 @@
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/footer\.scss;
-  }
-
-  line {
-    font-family: \000031;
-  }
-}
+/* line 1, ../../app/styles/footer.scss */
 
 .default.footer {
   padding-bottom: 25px;
   background: #eeeeee;
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/footer\.scss;
-  }
-
-  line {
-    font-family: \000035;
-  }
-}
+/* line 5, ../../app/styles/footer.scss */
 
 .default.footer .address p {
   text-align: left;
 }
 
 @media (max-width: 768px) {
-@media -sass-debug-info {
-    filename {
-      font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/footer\.scss;
-    }
-
-    line {
-      font-family: \0000311;
-    }
-}
+  /* line 11, ../../app/styles/footer.scss */
 
   .default.footer {
     margin-bottom: 50px;

@@ -17,7 +17,7 @@ var menuItems = [{
 
 var aboutPics = {
 	mission: 'http://imageshack.com/a/img921/4271/KKN28c.jpg',
-	owner: 'http://imageshack.com/a/img923/6964/c0SpyJ.jpg' 
+	owner: 'http://imageshack.com/a/img923/6964/c0SpyJ.jpg'
 };
 
 var aboutItems = [{
@@ -41,32 +41,14 @@ var carouselItems = [{
 	h: 'Sunflower Child Care',
 	p: 'Just what your child needs to learn through playing',
 	active: true
-}/*, {
-	url: 'http://imageshack.com/a/img6/4425/wnnk.jpg',
-	h: 'Friendly Enviroment',
-	p: 'Let your child spend a day in a playful and friendly enviroment'
-}, {
-	url: 'http://imageshack.com/a/img841/2199/e0y5.jpg',
-	h: 'Making new friends',
-	p: 'Great way to get used to communicating with other kids around and make friends'
-}*/];
+}];
 
 var carouselItemsMobile = [{
 	url: 'http://imagizer.imageshack.us/v2/1024x768q90/405/z26i.jpg',
 	h: 'Sunflower Child Care',
 	p: 'Just what your child needs to learn through playing',
 	active: true
-}/*, {
-	// url: 'http://imagizer.imageshack.us/v2/1024x768q90/6/wnnk.jpg',
-	url: 'http://imagizer.imageshack.us/v2/800x600q90/6/wnnk.jpg',
-	h: 'Friendly Enviroment',
-	p: 'Let your child spend a day in a playful and friendly enviroment'
-}, {
-	// url: 'http://imagizer.imageshack.us/v2/1024x768q90/841/e0y5.jpg',
-	url: 'http://imagizer.imageshack.us/v2/800x600q90/841/e0y5.jpg',
-	h: 'Making new friends',
-	p: 'Great way to get used to communicating with other kids around and make friends'
-}*/];
+}];
 
 /* Activities for daily schedule */
 var morningSchedule = [{

@@ -1,98 +1,42 @@
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/home\.scss;
-  }
-
-  line {
-    font-family: \000031;
-  }
-}
+/* line 1, ../../app/styles/home.scss */
 
 #home {
   margin-top: -15px;
 }
 
 @media (max-width: 768px) {
-@media -sass-debug-info {
-    filename {
-      font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/home\.scss;
-    }
-
-    line {
-      font-family: \000036;
-    }
-}
+  /* line 6, ../../app/styles/home.scss */
 
   #home {
     margin-top: 0;
   }
 
-@media -sass-debug-info {
-    filename {
-      font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/home\.scss;
-    }
-
-    line {
-      font-family: \000039;
-    }
-}
+  /* line 9, ../../app/styles/home.scss */
 
   #home .default .container h1 {
     line-height: 25px;
   }
 
-@media -sass-debug-info {
-    filename {
-      font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/home\.scss;
-    }
-
-    line {
-      font-family: \0000314;
-    }
-}
+  /* line 14, ../../app/styles/home.scss */
 
   .carousel-caption {
     bottom: -20px;
   }
 
-@media -sass-debug-info {
-    filename {
-      font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/home\.scss;
-    }
-
-    line {
-      font-family: \0000317;
-    }
-}
+  /* line 17, ../../app/styles/home.scss */
 
   .carousel-caption h3 {
     font-size: 15px;
   }
 
-@media -sass-debug-info {
-    filename {
-      font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/home\.scss;
-    }
-
-    line {
-      font-family: \0000321;
-    }
-}
+  /* line 21, ../../app/styles/home.scss */
 
   .carousel-caption p {
     font-size: 10px;
   }
 }
 
-@media -sass-debug-info {
-  filename {
-    font-family: file\:\/\/\/Users\/nikolay\/code\/sunflower_new\/app\/styles\/home\.scss;
-  }
-
-  line {
-    font-family: \0000330;
-  }
-}
+/* line 30, ../../app/styles/home.scss */
 
 .carousel .item .carousel-caption h3 {
   color: yellowgreen;
